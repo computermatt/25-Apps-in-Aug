@@ -1,0 +1,293 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* randomizerAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* randomizerAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		C9A7C30C1024FD710092BD96 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = C9A7C30B1024FD710092BD96 /* icon.png */; };
+		C9C03A301025EF7D001BCF54 /* mw7.aiff in Resources */ = {isa = PBXBuildFile; fileRef = C9C03A2C1025EF7D001BCF54 /* mw7.aiff */; };
+		C9C03A311025EF7D001BCF54 /* mw8.aiff in Resources */ = {isa = PBXBuildFile; fileRef = C9C03A2D1025EF7D001BCF54 /* mw8.aiff */; };
+		C9C03A321025EF7D001BCF54 /* mw5.aiff in Resources */ = {isa = PBXBuildFile; fileRef = C9C03A2E1025EF7D001BCF54 /* mw5.aiff */; };
+		C9C03A331025EF7D001BCF54 /* mw6.aiff in Resources */ = {isa = PBXBuildFile; fileRef = C9C03A2F1025EF7D001BCF54 /* mw6.aiff */; };
+		C9F6993B1024E7B200A5C9DF /* Mainview.m in Sources */ = {isa = PBXBuildFile; fileRef = C9F699391024E7B200A5C9DF /* Mainview.m */; };
+		C9F699681024E9AC00A5C9DF /* mw2.aiff in Resources */ = {isa = PBXBuildFile; fileRef = C9F699641024E9AC00A5C9DF /* mw2.aiff */; };
+		C9F699691024E9AC00A5C9DF /* mw3.aiff in Resources */ = {isa = PBXBuildFile; fileRef = C9F699651024E9AC00A5C9DF /* mw3.aiff */; };
+		C9F6996A1024E9AC00A5C9DF /* mw1.aiff in Resources */ = {isa = PBXBuildFile; fileRef = C9F699661024E9AC00A5C9DF /* mw1.aiff */; };
+		C9F6996B1024E9AC00A5C9DF /* mw4.aiff in Resources */ = {isa = PBXBuildFile; fileRef = C9F699671024E9AC00A5C9DF /* mw4.aiff */; };
+		C9F699A51024EA2300A5C9DF /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9F699A41024EA2300A5C9DF /* AudioToolbox.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* randomizerAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = randomizerAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* randomizerAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = randomizerAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* randomizer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = randomizer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* randomizer_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = randomizer_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* randomizer-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "randomizer-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		C9A7C30B1024FD710092BD96 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		C9C03A2C1025EF7D001BCF54 /* mw7.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = mw7.aiff; sourceTree = "<group>"; };
+		C9C03A2D1025EF7D001BCF54 /* mw8.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = mw8.aiff; sourceTree = "<group>"; };
+		C9C03A2E1025EF7D001BCF54 /* mw5.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = mw5.aiff; sourceTree = "<group>"; };
+		C9C03A2F1025EF7D001BCF54 /* mw6.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = mw6.aiff; sourceTree = "<group>"; };
+		C9F699391024E7B200A5C9DF /* Mainview.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Mainview.m; path = ../Mainview.m; sourceTree = "<group>"; };
+		C9F6993A1024E7B200A5C9DF /* Mainview.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Mainview.h; path = ../Mainview.h; sourceTree = "<group>"; };
+		C9F699641024E9AC00A5C9DF /* mw2.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = mw2.aiff; sourceTree = "<group>"; };
+		C9F699651024E9AC00A5C9DF /* mw3.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = mw3.aiff; sourceTree = "<group>"; };
+		C9F699661024E9AC00A5C9DF /* mw1.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = mw1.aiff; sourceTree = "<group>"; };
+		C9F699671024E9AC00A5C9DF /* mw4.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = mw4.aiff; sourceTree = "<group>"; };
+		C9F699A41024EA2300A5C9DF /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = /System/Library/Frameworks/AudioToolbox.framework; sourceTree = "<absolute>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
+				C9F699A51024EA2300A5C9DF /* AudioToolbox.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				C9F6993A1024E7B200A5C9DF /* Mainview.h */,
+				C9F699391024E7B200A5C9DF /* Mainview.m */,
+				1D3623240D0F684500981E51 /* randomizerAppDelegate.h */,
+				1D3623250D0F684500981E51 /* randomizerAppDelegate.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* randomizer.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* randomizer_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				C9A7C30B1024FD710092BD96 /* icon.png */,
+				C9F6996D1024E9B000A5C9DF /* sounds */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* randomizer-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C9F699A41024EA2300A5C9DF /* AudioToolbox.framework */,
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C9F6996D1024E9B000A5C9DF /* sounds */ = {
+			isa = PBXGroup;
+			children = (
+				C9C03A2C1025EF7D001BCF54 /* mw7.aiff */,
+				C9C03A2D1025EF7D001BCF54 /* mw8.aiff */,
+				C9C03A2E1025EF7D001BCF54 /* mw5.aiff */,
+				C9C03A2F1025EF7D001BCF54 /* mw6.aiff */,
+				C9F699641024E9AC00A5C9DF /* mw2.aiff */,
+				C9F699651024E9AC00A5C9DF /* mw3.aiff */,
+				C9F699661024E9AC00A5C9DF /* mw1.aiff */,
+				C9F699671024E9AC00A5C9DF /* mw4.aiff */,
+			);
+			name = sounds;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* randomizer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "randomizer" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = randomizer;
+			productName = randomizer;
+			productReference = 1D6058910D05DD3D006BFB54 /* randomizer.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "randomizer" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* randomizer */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				C9F699681024E9AC00A5C9DF /* mw2.aiff in Resources */,
+				C9F699691024E9AC00A5C9DF /* mw3.aiff in Resources */,
+				C9F6996A1024E9AC00A5C9DF /* mw1.aiff in Resources */,
+				C9F6996B1024E9AC00A5C9DF /* mw4.aiff in Resources */,
+				C9A7C30C1024FD710092BD96 /* icon.png in Resources */,
+				C9C03A301025EF7D001BCF54 /* mw7.aiff in Resources */,
+				C9C03A311025EF7D001BCF54 /* mw8.aiff in Resources */,
+				C9C03A321025EF7D001BCF54 /* mw5.aiff in Resources */,
+				C9C03A331025EF7D001BCF54 /* mw6.aiff in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* randomizerAppDelegate.m in Sources */,
+				C9F6993B1024E7B200A5C9DF /* Mainview.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = randomizer_Prefix.pch;
+				INFOPLIST_FILE = "randomizer-Info.plist";
+				PRODUCT_NAME = randomizer;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = randomizer_Prefix.pch;
+				INFOPLIST_FILE = "randomizer-Info.plist";
+				PRODUCT_NAME = randomizer;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.0;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "randomizer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "randomizer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

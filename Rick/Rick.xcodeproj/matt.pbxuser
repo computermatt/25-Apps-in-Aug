@@ -1,0 +1,294 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* RickAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {588, 364}}";
+			sepNavSelRange = "{420, 0}";
+			sepNavVisRange = "{0, 603}";
+		};
+	};
+	1D3623250D0F684500981E51 /* RickAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {588, 462}}";
+			sepNavSelRange = "{420, 0}";
+			sepNavVisRange = "{0, 564}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Rick */ = {
+		activeExec = 0;
+		executables = (
+			C9AC0FEF10407123009303AB /* Rick */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* RickViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {588, 294}}";
+			sepNavSelRange = "{423, 0}";
+			sepNavVisRange = "{0, 587}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* RickViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {588, 1190}}";
+			sepNavSelRange = "{216, 0}";
+			sepNavVisRange = "{0, 533}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C9AC0FEF10407123009303AB /* Rick */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Rick */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Rick */,
+		);
+		codeSenseManager = C9AC10101040712F009303AB /* Code sense */;
+		executables = (
+			C9AC0FEF10407123009303AB /* Rick */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 272683938;
+			PBXWorkspaceStateSaveDate = 272683938;
+		};
+		perUserProjectItems = {
+			C98181DF1040D44B00F72C69 /* PBXTextBookmark */ = C98181DF1040D44B00F72C69 /* PBXTextBookmark */;
+			C98181E01040D44B00F72C69 /* PBXTextBookmark */ = C98181E01040D44B00F72C69 /* PBXTextBookmark */;
+			C98181E11040D44B00F72C69 /* PBXTextBookmark */ = C98181E11040D44B00F72C69 /* PBXTextBookmark */;
+			C98181E21040D44B00F72C69 /* PBXTextBookmark */ = C98181E21040D44B00F72C69 /* PBXTextBookmark */;
+			C98181E31040D44B00F72C69 /* PBXTextBookmark */ = C98181E31040D44B00F72C69 /* PBXTextBookmark */;
+			C98181E41040D44B00F72C69 /* PBXBookmark */ = C98181E41040D44B00F72C69 /* PBXBookmark */;
+			C98181E51040D44B00F72C69 /* PBXTextBookmark */ = C98181E51040D44B00F72C69 /* PBXTextBookmark */;
+			C98181E61040D44B00F72C69 /* PBXTextBookmark */ = C98181E61040D44B00F72C69 /* PBXTextBookmark */;
+			C98181E71040D44B00F72C69 /* PBXTextBookmark */ = C98181E71040D44B00F72C69 /* PBXTextBookmark */;
+			C98181E81040D44B00F72C69 /* PBXTextBookmark */ = C98181E81040D44B00F72C69 /* PBXTextBookmark */;
+			C98181E91040D44B00F72C69 /* PBXTextBookmark */ = C98181E91040D44B00F72C69 /* PBXTextBookmark */;
+			C98181EA1040D44B00F72C69 /* PBXTextBookmark */ = C98181EA1040D44B00F72C69 /* PBXTextBookmark */;
+			C98181EB1040D44B00F72C69 /* PBXTextBookmark */ = C98181EB1040D44B00F72C69 /* PBXTextBookmark */;
+			C98181EC1040D44B00F72C69 /* PlistBookmark */ = C98181EC1040D44B00F72C69 /* PlistBookmark */;
+			C9AC101A10407417009303AB /* PBXTextBookmark */ = C9AC101A10407417009303AB /* PBXTextBookmark */;
+			C9AC101B10407417009303AB /* PBXTextBookmark */ = C9AC101B10407417009303AB /* PBXTextBookmark */;
+		};
+		sourceControlManager = C9AC100F1040712F009303AB /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {588, 294}}";
+			sepNavSelRange = "{409, 0}";
+			sepNavVisRange = "{0, 638}";
+		};
+	};
+	C98181DF1040D44B00F72C69 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* RickAppDelegate.h */;
+		name = "RickAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 420;
+		rType = 0;
+		vrLen = 603;
+		vrLoc = 0;
+	};
+	C98181E01040D44B00F72C69 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* RickAppDelegate.m */;
+		name = "RickAppDelegate.m: 10";
+		rLen = 0;
+		rLoc = 420;
+		rType = 0;
+		vrLen = 564;
+		vrLoc = 0;
+	};
+	C98181E11040D44B00F72C69 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* RickViewController.h */;
+		name = "RickViewController.h: 10";
+		rLen = 0;
+		rLoc = 423;
+		rType = 0;
+		vrLen = 587;
+		vrLoc = 0;
+	};
+	C98181E21040D44B00F72C69 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 10";
+		rLen = 0;
+		rLoc = 409;
+		rType = 0;
+		vrLen = 638;
+		vrLoc = 0;
+	};
+	C98181E31040D44B00F72C69 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* RickViewController.m */;
+		name = "RickViewController.m: 8";
+		rLen = 0;
+		rLoc = 216;
+		rType = 0;
+		vrLen = 533;
+		vrLoc = 0;
+	};
+	C98181E41040D44B00F72C69 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Rick-Info.plist */;
+	};
+	C98181E51040D44B00F72C69 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* RickViewController.m */;
+		name = "RickViewController.m: 5";
+		rLen = 383;
+		rLoc = 40;
+		rType = 0;
+		vrLen = 533;
+		vrLoc = 0;
+	};
+	C98181E61040D44B00F72C69 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* RickAppDelegate.h */;
+		name = "RickAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 420;
+		rType = 0;
+		vrLen = 603;
+		vrLoc = 0;
+	};
+	C98181E71040D44B00F72C69 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* RickAppDelegate.m */;
+		name = "RickAppDelegate.m: 10";
+		rLen = 0;
+		rLoc = 420;
+		rType = 0;
+		vrLen = 564;
+		vrLoc = 0;
+	};
+	C98181E81040D44B00F72C69 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* RickViewController.h */;
+		name = "RickViewController.h: 10";
+		rLen = 0;
+		rLoc = 423;
+		rType = 0;
+		vrLen = 587;
+		vrLoc = 0;
+	};
+	C98181E91040D44B00F72C69 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* RickViewController.m */;
+		name = "RickViewController.m: 8";
+		rLen = 0;
+		rLoc = 216;
+		rType = 0;
+		vrLen = 533;
+		vrLoc = 0;
+	};
+	C98181EA1040D44B00F72C69 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 10";
+		rLen = 0;
+		rLoc = 409;
+		rType = 0;
+		vrLen = 638;
+		vrLoc = 0;
+	};
+	C98181EB1040D44B00F72C69 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* RickViewController.m */;
+		name = "RickViewController.m: 8";
+		rLen = 0;
+		rLoc = 216;
+		rType = 0;
+		vrLen = 533;
+		vrLoc = 0;
+	};
+	C98181EC1040D44B00F72C69 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Rick-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = "/Users/matt/Desktop/Rick/Rick-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	C9AC0FEF10407123009303AB /* Rick */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Rick;
+		sourceDirectories = (
+		);
+	};
+	C9AC100F1040712F009303AB /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	C9AC10101040712F009303AB /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C9AC101A10407417009303AB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* RickViewController.h */;
+		name = "RickViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 225;
+		vrLoc = 0;
+	};
+	C9AC101B10407417009303AB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* RickViewController.m */;
+		name = "RickViewController.m: 11";
+		rLen = 0;
+		rLoc = 492;
+		rType = 0;
+		vrLen = 313;
+		vrLoc = 0;
+	};
+}

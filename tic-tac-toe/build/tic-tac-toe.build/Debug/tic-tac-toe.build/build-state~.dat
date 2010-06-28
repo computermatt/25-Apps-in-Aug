@@ -1,0 +1,104 @@
+Ttic-tac-toe
+v7
+r1
+cCheck dependencies
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/MainWindow.xib
+c000000004A7877240000000000002441
+t1249408804
+s9281
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/O.png
+c0000000049B457CD00000000000012C0
+t1236555725
+s4800
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/X.png
+c0000000049B458130000000000000E4F
+t1236555795
+s3663
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/board.png
+c0000000049B45F250000000000000D86
+t1236557605
+s3462
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug/tic-tac-toe.app
+t2
+s0
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug/tic-tac-toe.app/Contents/Info.plist
+t2
+s0
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug/tic-tac-toe.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug/tic-tac-toe.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug/tic-tac-toe.app/Contents/Resources/O.png
+t2
+s0
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug/tic-tac-toe.app/Contents/Resources/X.png
+t2
+s0
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug/tic-tac-toe.app/Contents/Resources/board.png
+t2
+s0
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug/tic-tac-toe.app/Contents/Resources/icon.png
+t2
+s0
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug/tic-tac-toe.app/Contents/Resources/tic_tac_toeViewController.nib
+t2
+s0
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/icon.png
+c000000004A787A190000000000000E0E
+t1249409561
+s3598
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/tic_tac_toeViewController.xib
+c000000004A78795E00000000000058EF
+t1249409374
+s22767
+
+Ntic_tac_toe-Info.plist
+c000000004A787A350000000000000395
+t1249409589
+s917
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies298245539#298245539#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos3.0'1(4@58"error: There is no SDK with the name or path 'iphoneos3.0'298245539#18446744073709551615#0#0(1@0"0(0#1#0"32651522506817640#0"0#
+
+CCompileXIB "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/tic_tac_toeViewController.xib"
+r0
+
+CCpResource build/Debug/tic-tac-toe.app/Contents/Resources/O.png O.png
+r0
+
+CCpResource build/Debug/tic-tac-toe.app/Contents/Resources/X.png X.png
+r0
+
+CCpResource build/Debug/tic-tac-toe.app/Contents/Resources/board.png board.png
+r0
+
+CCpResource build/Debug/tic-tac-toe.app/Contents/Resources/icon.png icon.png
+r0
+
+CProcessInfoPlistFile "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug/tic-tac-toe.app/Contents/Info.plist" tic_tac_toe-Info.plist
+r0
+
+CTouch "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug/tic-tac-toe.app"
+r0
+

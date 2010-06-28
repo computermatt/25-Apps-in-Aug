@@ -1,0 +1,205 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* temperatureAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1200, 378}}";
+			sepNavSelRange = "{51, 410}";
+			sepNavVisRange = "{0, 522}";
+		};
+	};
+	1D3623250D0F684500981E51 /* temperatureAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1398, 455}}";
+			sepNavSelRange = "{461, 0}";
+			sepNavVisRange = "{0, 537}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* temperature */ = {
+		activeExec = 0;
+		executables = (
+			C95FB6D2103E0D6900FFBFAF /* temperature */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* temperatureViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1200, 420}}";
+			sepNavSelRange = "{464, 0}";
+			sepNavVisRange = "{3, 601}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* temperatureViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1398, 702}}";
+			sepNavSelRange = "{464, 0}";
+			sepNavVisRange = "{706, 363}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C95FB6D2103E0D6900FFBFAF /* temperature */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* temperature */;
+		codeSenseManager = C95FB6E5103E0D7200FFBFAF /* Code sense */;
+		executables = (
+			C95FB6D2103E0D6900FFBFAF /* temperature */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					624,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 295115846;
+			PBXWorkspaceStateSaveDate = 295115846;
+		};
+		perUserProjectItems = {
+			C946500711971C5000CDB313 /* PlistBookmark */ = C946500711971C5000CDB313 /* PlistBookmark */;
+			C946500811971C5000CDB313 /* PBXTextBookmark */ = C946500811971C5000CDB313 /* PBXTextBookmark */;
+			C946500911971C5000CDB313 /* PBXTextBookmark */ = C946500911971C5000CDB313 /* PBXTextBookmark */;
+			C9665E11104715C60034D0EA /* PBXTextBookmark */ = C9665E11104715C60034D0EA /* PBXTextBookmark */;
+			C9665E13104715C60034D0EA /* PBXTextBookmark */ = C9665E13104715C60034D0EA /* PBXTextBookmark */;
+			C9665E14104715C60034D0EA /* PBXTextBookmark */ = C9665E14104715C60034D0EA /* PBXTextBookmark */;
+			C9665E15104715C60034D0EA /* PBXTextBookmark */ = C9665E15104715C60034D0EA /* PBXTextBookmark */;
+		};
+		sourceControlManager = C95FB6E4103E0D7200FFBFAF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1200, 322}}";
+			sepNavSelRange = "{443, 0}";
+			sepNavVisRange = "{0, 505}";
+		};
+	};
+	C946500711971C5000CDB313 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* temperature-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/temperature/temperature-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	C946500811971C5000CDB313 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* temperatureAppDelegate.m */;
+		name = "temperatureAppDelegate.m: 12";
+		rLen = 0;
+		rLoc = 461;
+		rType = 0;
+		vrLen = 537;
+		vrLoc = 0;
+	};
+	C946500911971C5000CDB313 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* temperatureViewController.m */;
+		name = "temperatureViewController.m: 12";
+		rLen = 0;
+		rLoc = 464;
+		rType = 0;
+		vrLen = 363;
+		vrLoc = 706;
+	};
+	C95FB6D2103E0D6900FFBFAF /* temperature */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = temperature;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	C95FB6E4103E0D7200FFBFAF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C95FB6E5103E0D7200FFBFAF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C9665E11104715C60034D0EA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* temperatureAppDelegate.h */;
+		name = "temperatureAppDelegate.h: 5";
+		rLen = 410;
+		rLoc = 51;
+		rType = 0;
+		vrLen = 522;
+		vrLoc = 0;
+	};
+	C9665E13104715C60034D0EA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* temperatureViewController.h */;
+		name = "temperatureViewController.h: 12";
+		rLen = 0;
+		rLoc = 464;
+		rType = 0;
+		vrLen = 601;
+		vrLoc = 3;
+	};
+	C9665E14104715C60034D0EA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* temperatureViewController.m */;
+		name = "temperatureViewController.m: 12";
+		rLen = 0;
+		rLoc = 464;
+		rType = 0;
+		vrLen = 547;
+		vrLoc = 0;
+	};
+	C9665E15104715C60034D0EA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 12";
+		rLen = 0;
+		rLoc = 443;
+		rType = 0;
+		vrLen = 505;
+		vrLoc = 0;
+	};
+}

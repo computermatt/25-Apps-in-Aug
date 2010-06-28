@@ -1,0 +1,213 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* Dial_my_EpochAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1200, 392}}";
+			sepNavSelRange = "{55, 410}";
+			sepNavVisRange = "{0, 624}";
+		};
+	};
+	1D3623250D0F684500981E51 /* Dial_my_EpochAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1200, 546}}";
+			sepNavSelRange = "{465, 0}";
+			sepNavVisRange = "{0, 607}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Dial my Epoch */ = {
+		activeExec = 0;
+		executables = (
+			C98BF8F3103F63AD0026714D /* Dial my Epoch */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* Dial_my_EpochViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1398, 286}}";
+			sepNavSelRange = "{468, 0}";
+			sepNavVisRange = "{55, 603}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* Dial_my_EpochViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1398, 611}}";
+			sepNavSelRange = "{621, 28}";
+			sepNavVisRange = "{592, 408}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C98BF8F3103F63AD0026714D /* Dial my Epoch */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Dial my Epoch */;
+		codeSenseManager = C98BF910103F63BE0026714D /* Code sense */;
+		executables = (
+			C98BF8F3103F63AD0026714D /* Dial my Epoch */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 298752176;
+			PBXWorkspaceStateSaveDate = 298752176;
+		};
+		perUserProjectItems = {
+			C904E5E411CE98BD00978DE7 /* PBXTextBookmark */ = C904E5E411CE98BD00978DE7 /* PBXTextBookmark */;
+			C904E5E511CE98BD00978DE7 /* PBXTextBookmark */ = C904E5E511CE98BD00978DE7 /* PBXTextBookmark */;
+			C95F8CCE103F6CC300E6E962 /* PBXTextBookmark */ = C95F8CCE103F6CC300E6E962 /* PBXTextBookmark */;
+			C98181EF1040D44B00F72C69 /* PlistBookmark */ = C98181EF1040D44B00F72C69 /* PlistBookmark */;
+			C98BF93C103F69B50026714D /* PBXTextBookmark */ = C98BF93C103F69B50026714D /* PBXTextBookmark */;
+			C9BA5DFE104705C9005EAB50 /* PBXTextBookmark */ = C9BA5DFE104705C9005EAB50 /* PBXTextBookmark */;
+			C9BA5DFF104705C9005EAB50 /* PBXTextBookmark */ = C9BA5DFF104705C9005EAB50 /* PBXTextBookmark */;
+		};
+		sourceControlManager = C98BF90F103F63BE0026714D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1200, 294}}";
+			sepNavSelRange = "{445, 0}";
+			sepNavVisRange = "{0, 654}";
+		};
+	};
+	8D1107310486CEB800E47090 /* Dial_my_Epoch-Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {632, 434}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {539, 253}}";
+		};
+	};
+	C904E5E411CE98BD00978DE7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* Dial_my_EpochViewController.h */;
+		name = "Dial_my_EpochViewController.h: 12";
+		rLen = 0;
+		rLoc = 468;
+		rType = 0;
+		vrLen = 603;
+		vrLoc = 55;
+	};
+	C904E5E511CE98BD00978DE7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Dial_my_EpochViewController.m */;
+		name = "Dial_my_EpochViewController.m: 24";
+		rLen = 28;
+		rLoc = 621;
+		rType = 0;
+		vrLen = 408;
+		vrLoc = 592;
+	};
+	C95F8CCE103F6CC300E6E962 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 12";
+		rLen = 0;
+		rLoc = 445;
+		rType = 0;
+		vrLen = 654;
+		vrLoc = 0;
+	};
+	C98181EF1040D44B00F72C69 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Dial_my_Epoch-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/matt/Desktop/iphone apps/25 apps in aug/Dial my Epoch/Dial_my_Epoch-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	C98BF8F3103F63AD0026714D /* Dial my Epoch */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Dial my Epoch";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	C98BF90F103F63BE0026714D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C98BF910103F63BE0026714D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C98BF93C103F69B50026714D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Dial_my_EpochAppDelegate.h */;
+		name = "Dial_my_EpochAppDelegate.h: 5";
+		rLen = 410;
+		rLoc = 55;
+		rType = 0;
+		vrLen = 624;
+		vrLoc = 0;
+	};
+	C9BA5DFE104705C9005EAB50 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Dial_my_EpochAppDelegate.m */;
+		name = "Dial_my_EpochAppDelegate.m: 12";
+		rLen = 0;
+		rLoc = 465;
+		rType = 0;
+		vrLen = 607;
+		vrLoc = 0;
+	};
+	C9BA5DFF104705C9005EAB50 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Dial_my_EpochViewController.m */;
+		name = "Dial_my_EpochViewController.m: 29";
+		rLen = 0;
+		rLoc = 867;
+		rType = 0;
+		vrLen = 469;
+		vrLoc = 594;
+	};
+}

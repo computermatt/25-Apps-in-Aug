@@ -1,0 +1,240 @@
+Talertme
+v7
+r0
+t290208267.863628
+cCheck dependencies
+cProcessInfoPlistFile "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/alertme.app/Info.plist" alertme-Info.plist
+cCompileXIB "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/MainWindow.xib"
+cCompileXIB "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/alertmeViewController.xib"
+cProcessPCH /var/folders/eK/eKy+cY9lGOuUMW2sAs24FU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/alertme_Prefix-alomatrirosllweqgvqtvpduswrt/alertme_Prefix.pch.gch alertme_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/alertme.build/Debug-iphonesimulator/alertme.build/Objects-normal/i386/main.o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/alertme.build/Debug-iphonesimulator/alertme.build/Objects-normal/i386/alertmeAppDelegate.o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/Classes/alertmeAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/alertme.build/Debug-iphonesimulator/alertme.build/Objects-normal/i386/alertmeViewController.o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/Classes/alertmeViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/alertme.app/alertme" normal i386
+cGenerateDSYMFile "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/alertme.app.dSYM" "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/alertme.app/alertme"
+cTouch "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/alertme.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/Classes/alertmeAppDelegate.h
+c000000004A89B2FF0000000000000314
+t1250538239
+s788
+i<UIKit/UIKit.h>
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/Classes/alertmeAppDelegate.m
+c000000004A89B303000000000000039F
+t1250538243
+s927
+i"alertmeAppDelegate.h"
+i"alertmeViewController.h"
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/Classes/alertmeViewController.h
+c000000004A89B306000000000000033B
+t1250538246
+s827
+i<UIKit/UIKit.h>
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/Classes/alertmeViewController.m
+c000000004A89C4A70000000000000A38
+t1250542759
+s2616
+i"alertmeViewController.h"
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/MainWindow.xib
+c000000004A89A7E60000000000002415
+t1250535398
+s9237
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/alertmeViewController.xib
+c000000004A89B25A00000000000035DB
+t1250538074
+s13787
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/alertme_Prefix.pch
+c000000004A89A7E600000000000000B7
+t1250535398
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/alertme.app
+t1268515467
+s238
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/alertme.app.dSYM
+t1268515467
+s102
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/alertme.app/Info.plist
+t1250542642
+s542
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/alertme.app/MainWindow.nib
+t1250542643
+s1495
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/alertme.app/PkgInfo
+t1250542642
+s8
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/alertme.app/alertme
+t1268515467
+s21340
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/alertme.app/alertmeViewController.nib
+t1250542644
+s3446
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/Objects-normal/i386/alertme.LinkFileList
+c000000004B9C028800000000000001CC
+t1268515464
+s460
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/Objects-normal/i386/alertmeAppDelegate.o
+t1268515467
+s37860
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/Objects-normal/i386/alertmeViewController.o
+t1268515467
+s40764
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/Objects-normal/i386/main.o
+t1268515467
+s5984
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/main.m
+c000000004A89B30F000000000000029E
+t1250538255
+s670
+i<UIKit/UIKit.h>
+
+N/var/folders/eK/eKy+cY9lGOuUMW2sAs24FU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/alertme_Prefix-alomatrirosllweqgvqtvpduswrt/alertme_Prefix.pch.gch
+t1268515467
+s8700032
+
+Nalertme-Info.plist
+c000000004A89B2E0000000000000038D
+t1250538208
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies290208264#290208264#0(0"0(0#1#0"4391096#0"0#
+
+CCompileC build/alertme.build/Debug-iphonesimulator/alertme.build/Objects-normal/i386/alertmeAppDelegate.o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/Classes/alertmeAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290208267.240997
+e290208267.373981
+r1
+xCompileC
+xbuild/alertme.build/Debug-iphonesimulator/alertme.build/Objects-normal/i386/alertmeAppDelegate.o
+x/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/Classes/alertmeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/Classes/alertmeAppDelegate.m290208267#290208267#0(0"0(0#0#88"/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/Classes/alertmeAppDelegate.m2563590256#2146"    cd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/alertme-generated-files.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/alertme-own-target-headers.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/alertme-all-target-headers.hmap" -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/alertme-project-headers.hmap" "-F/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/include" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/DerivedSources/i386" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/DerivedSources" -include /var/folders/eK/eKy+cY9lGOuUMW2sAs24FU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/alertme_Prefix-alomatrirosllweqgvqtvpduswrt/alertme_Prefix.pch -c "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/Classes/alertmeAppDelegate.m" -o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/Objects-normal/i386/alertmeAppDelegate.o"0#
+
+CCompileC build/alertme.build/Debug-iphonesimulator/alertme.build/Objects-normal/i386/alertmeViewController.o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/Classes/alertmeViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290208267.374143
+e290208267.537091
+r1
+xCompileC
+xbuild/alertme.build/Debug-iphonesimulator/alertme.build/Objects-normal/i386/alertmeViewController.o
+x/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/Classes/alertmeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/Classes/alertmeViewController.m290208267#290208267#0(0"0(0#0#91"/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/Classes/alertmeViewController.m2563590256#2152"    cd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/alertme-generated-files.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/alertme-own-target-headers.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/alertme-all-target-headers.hmap" -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/alertme-project-headers.hmap" "-F/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/include" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/DerivedSources/i386" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/DerivedSources" -include /var/folders/eK/eKy+cY9lGOuUMW2sAs24FU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/alertme_Prefix-alomatrirosllweqgvqtvpduswrt/alertme_Prefix.pch -c "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/Classes/alertmeViewController.m" -o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/Objects-normal/i386/alertmeViewController.o"0#
+
+CCompileC build/alertme.build/Debug-iphonesimulator/alertme.build/Objects-normal/i386/main.o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290208267.133731
+e290208267.240838
+r1
+xCompileC
+xbuild/alertme.build/Debug-iphonesimulator/alertme.build/Objects-normal/i386/main.o
+x/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/main.m290208267#290208267#0(0"0(0#0#66"/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/main.m4391096#2110"    cd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/alertme-generated-files.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/alertme-own-target-headers.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/alertme-all-target-headers.hmap" -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/alertme-project-headers.hmap" "-F/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/include" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/DerivedSources/i386" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/DerivedSources" -include /var/folders/eK/eKy+cY9lGOuUMW2sAs24FU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/alertme_Prefix-alomatrirosllweqgvqtvpduswrt/alertme_Prefix.pch -c "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/main.m" -o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/alertmeViewController.xib"
+r0
+
+CGenerateDSYMFile "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/alertme.app.dSYM" "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/alertme.app/alertme"
+s290208267.754549
+e290208267.857747
+r1
+xGenerateDSYMFile
+x/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/alertme.app.dSYM
+x/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/alertme.app/alertme
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/alertme.app.dSYM build/Debug-iphonesimulator/alertme.app/alertme290208267#290208267#0(0"0(0#0#107"/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/alertme.app/alertme2563590256#452"    cd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/alertme.app/alertme" -o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/alertme.app.dSYM"0#
+
+CLd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/alertme.app/alertme" normal i386
+s290208267.537229
+e290208267.754397
+r1
+xLd
+x/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/alertme.app/alertme
+xnormal
+xi386
+lSLF07#2@112"Link /Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/alertme.app/alertme290208267#290208267#0(0"0(0#0#0"2563590256#977"    cd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk "-L/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator" "-F/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator" -filelist "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/Objects-normal/i386/alertme.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/alertme.app/alertme"0#
+
+CProcessInfoPlistFile "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/alertme.app/Info.plist" alertme-Info.plist
+r0
+
+CProcessPCH /var/folders/eK/eKy+cY9lGOuUMW2sAs24FU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/alertme_Prefix-alomatrirosllweqgvqtvpduswrt/alertme_Prefix.pch.gch alertme_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s290208264.634899
+e290208267.133420
+r1
+xProcessPCH
+x/var/folders/eK/eKy+cY9lGOuUMW2sAs24FU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/alertme_Prefix-alomatrirosllweqgvqtvpduswrt/alertme_Prefix.pch.gch
+xalertme_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile alertme_Prefix.pch290208264#290208267#0(0"0(0#0#78"/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/alertme_Prefix.pch4391096#1979"    cd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/alertme-generated-files.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/alertme-own-target-headers.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/alertme-all-target-headers.hmap" -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/alertme-project-headers.hmap" "-F/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/include" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/DerivedSources/i386" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/alertme.build/Debug-iphonesimulator/alertme.build/DerivedSources" -c "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/alertme_Prefix.pch" -o /var/folders/eK/eKy+cY9lGOuUMW2sAs24FU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/alertme_Prefix-alomatrirosllweqgvqtvpduswrt/alertme_Prefix.pch.gch0#
+
+CTouch "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/alertme.app"
+s290208267.857881
+e290208267.863545
+r1
+xTouch
+x/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/alertme.app
+lSLF07#2@105"Touch /Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/alertme.app290208267#290208267#0(0"0(0#0#0"2563590256#324"    cd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/alertme/build/Debug-iphonesimulator/alertme.app"0#
+

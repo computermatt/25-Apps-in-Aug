@@ -1,0 +1,351 @@
+Tistupid
+v7
+r0
+t298054125.759848
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app/Info.plist" istupid-Info.plist
+cCompileXIB "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/MainWindow.xib"
+cCompileXIB "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/istupidViewController.xib"
+cCpResource build/Debug-iphonesimulator/istupid.app/one.png one.png
+cCpResource build/Debug-iphonesimulator/istupid.app/two.png two.png
+cCpResource build/Debug-iphonesimulator/istupid.app/ontap.jpg ontap.jpg
+cCpResource build/Debug-iphonesimulator/istupid.app/sound.wav sound.wav
+cProcessPCH /var/folders/Ws/WsDt9bu1F1yDqqxhEVoHxk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/istupid_Prefix-hjdfqsykjkhiuobbsfoyfkqntcky/istupid_Prefix.pch.gch istupid_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/istupid.build/Debug-iphonesimulator/istupid.build/Objects-normal/i386/main.o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/istupid.build/Debug-iphonesimulator/istupid.build/Objects-normal/i386/istupidAppDelegate.o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/Classes/istupidAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/istupid.build/Debug-iphonesimulator/istupid.build/Objects-normal/i386/istupidViewController.o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/Classes/istupidViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app/istupid" normal i386
+cGenerateDSYMFile "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app.dSYM" "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app/istupid"
+cTouch "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004B994DE000000000000000EE
+t1268338144
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004A0DADCB00000000001816A0
+t1242410443
+s1578656
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004A0DADB60000000000000A22
+t1242410422
+s2594
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/Classes/istupidAppDelegate.h
+c000000004A860A1C0000000000000315
+t1250298396
+s789
+i<UIKit/UIKit.h>
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/Classes/istupidAppDelegate.m
+c000000004A860A2000000000000003AD
+t1250298400
+s941
+i"istupidAppDelegate.h"
+i"istupidViewController.h"
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/Classes/istupidViewController.h
+c000000004A860A180000000000000273
+t1250298392
+s627
+i<UIKit/UIKit.h>
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/Classes/istupidViewController.m
+c000000004A860A260000000000000A54
+t1250298406
+s2644
+i"istupidViewController.h"
+i"istupidAppDelegate.h"
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/MainWindow.xib
+c000000004A85FD340000000000002415
+t1250295092
+s9237
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app
+t1276361325
+s374
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app.dSYM
+t1276361325
+s102
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app/Info.plist
+t1276361323
+s591
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app/MainWindow.nib
+t1276361324
+s1650
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app/PkgInfo
+t1276361323
+s8
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app/istupid
+t1276361325
+s20884
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app/istupidViewController.nib
+t1276361324
+s1633
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app/one.png
+t1276361324
+s2042
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app/ontap.jpg
+t1276361324
+s70919
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app/sound.wav
+t1276361324
+s243120
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app/two.png
+t1276361324
+s2417
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/Objects-normal/i386/istupid.LinkFileList
+c000000004C13BA6B00000000000001CC
+t1276361323
+s460
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/Objects-normal/i386/istupidAppDelegate.o
+t1276361325
+s37812
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/Objects-normal/i386/istupidViewController.o
+t1276361325
+s37984
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/Objects-normal/i386/main.o
+t1276361325
+s5984
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/istupidViewController.xib
+c000000004A8609D70000000000001D5E
+t1250298327
+s7518
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/istupid_Prefix.pch
+c000000004A85FD3400000000000000B7
+t1250295092
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/main.m
+c000000004A860A2E000000000000029E
+t1250298414
+s670
+i<UIKit/UIKit.h>
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/one.png
+c000000004A85FD0500000000000007FA
+t1250295045
+s2042
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/ontap.jpg
+c000000004A85FEC00000000000011507
+t1250295488
+s70919
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/sound.wav
+c0000000043DE43E1000000000003B5B0
+t1138639841
+s243120
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/two.png
+c000000004A85FD110000000000000971
+t1250295057
+s2417
+
+N/var/folders/Ws/WsDt9bu1F1yDqqxhEVoHxk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/istupid_Prefix-hjdfqsykjkhiuobbsfoyfkqntcky/istupid_Prefix.pch.gch
+t1276361324
+s12952976
+
+Nistupid-Info.plist
+c000000004A85FD34000000000000038D
+t1250295092
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies298054123#298054123#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/istupid.build/Debug-iphonesimulator/istupid.build/Objects-normal/i386/istupidAppDelegate.o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/Classes/istupidAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298054124.961733
+e298054125.159836
+r1
+xCompileC
+xbuild/istupid.build/Debug-iphonesimulator/istupid.build/Objects-normal/i386/istupidAppDelegate.o
+x/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/Classes/istupidAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/Classes/istupidAppDelegate.m298054124#298054125#0(0"0(0#0#88"/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/Classes/istupidAppDelegate.m4300739032#2146"    cd "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/istupid-generated-files.hmap" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/istupid-own-target-headers.hmap" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/istupid-all-target-headers.hmap" -iquote "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/istupid-project-headers.hmap" "-F/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/include" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/DerivedSources/i386" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/DerivedSources" -include /var/folders/Ws/WsDt9bu1F1yDqqxhEVoHxk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/istupid_Prefix-hjdfqsykjkhiuobbsfoyfkqntcky/istupid_Prefix.pch -c "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/Classes/istupidAppDelegate.m" -o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/Objects-normal/i386/istupidAppDelegate.o"0#
+
+CCompileC build/istupid.build/Debug-iphonesimulator/istupid.build/Objects-normal/i386/istupidViewController.o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/Classes/istupidViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298054125.079819
+e298054125.168687
+r1
+xCompileC
+xbuild/istupid.build/Debug-iphonesimulator/istupid.build/Objects-normal/i386/istupidViewController.o
+x/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/Classes/istupidViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/Classes/istupidViewController.m: In function '-[istupidViewController viewDidLoad]':
+o/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/Classes/istupidViewController.m:26: warning: 'istupidViewController' may not respond to '-animate'
+o/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/Classes/istupidViewController.m:26: warning: (Messages without a matching method signature
+o/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/Classes/istupidViewController.m:26: warning: will be assumed to return 'id' and accept
+o/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/Classes/istupidViewController.m:26: warning: '...' as arguments.)
+lSLF07#2@99"Compile /Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/Classes/istupidViewController.m298054125#298054125#0(728"/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/Classes/istupidViewController.m: In function '-[istupidViewController viewDidLoad]':/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/Classes/istupidViewController.m:26: warning: 'istupidViewController' may not respond to '-animate'/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/Classes/istupidViewController.m:26: warning: (Messages without a matching method signature/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/Classes/istupidViewController.m:26: warning: will be assumed to return 'id' and accept/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/Classes/istupidViewController.m:26: warning: '...' as arguments.)2(22@53"'istupidViewController' may not respond to '-animate'298054125#145#159#0(6@91"/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/Classes/istupidViewController.m271991206#26#0#26#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)298054125#304#151#0(6@91"/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/Classes/istupidViewController.m271991206#26#0#26#0#0"0(0#0#91"/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/Classes/istupidViewController.m4300739032#2152"    cd "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/istupid-generated-files.hmap" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/istupid-own-target-headers.hmap" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/istupid-all-target-headers.hmap" -iquote "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/istupid-project-headers.hmap" "-F/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/include" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/DerivedSources/i386" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/DerivedSources" -include /var/folders/Ws/WsDt9bu1F1yDqqxhEVoHxk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/istupid_Prefix-hjdfqsykjkhiuobbsfoyfkqntcky/istupid_Prefix.pch -c "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/Classes/istupidViewController.m" -o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/Objects-normal/i386/istupidViewController.o"0#
+
+CCompileC build/istupid.build/Debug-iphonesimulator/istupid.build/Objects-normal/i386/main.o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298054124.960437
+e298054125.079716
+r1
+xCompileC
+xbuild/istupid.build/Debug-iphonesimulator/istupid.build/Objects-normal/i386/main.o
+x/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/main.m298054124#298054125#0(0"0(0#0#66"/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/main.m4300739032#2110"    cd "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/istupid-generated-files.hmap" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/istupid-own-target-headers.hmap" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/istupid-all-target-headers.hmap" -iquote "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/istupid-project-headers.hmap" "-F/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/include" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/DerivedSources/i386" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/DerivedSources" -include /var/folders/Ws/WsDt9bu1F1yDqqxhEVoHxk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/istupid_Prefix-hjdfqsykjkhiuobbsfoyfkqntcky/istupid_Prefix.pch -c "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/main.m" -o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/MainWindow.xib"
+s298054123.709232
+e298054124.134523
+r1
+xCompileXIB
+x/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib298054123#298054124#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#74"/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/MainWindow.xib4300739032#549"    cd "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app/MainWindow.nib" "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/MainWindow.xib"0#
+
+CCompileXIB "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/istupidViewController.xib"
+s298054123.711269
+e298054124.093268
+r1
+xCompileXIB
+x/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/istupidViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@36"CompileXIB istupidViewController.xib298054123#298054124#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#85"/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/istupidViewController.xib4300739032#571"    cd "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app/istupidViewController.nib" "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/istupidViewController.xib"0#
+
+CCpResource build/Debug-iphonesimulator/istupid.app/one.png one.png
+s298054124.093361
+e298054124.129659
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/istupid.app/one.png
+xone.png
+lSLF07#2@12"Copy one.png298054124#298054124#0(0"0(0#0#67"/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/one.png4300739032#520"    cd "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/one.png" "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app"0#
+
+CCpResource build/Debug-iphonesimulator/istupid.app/ontap.jpg ontap.jpg
+s298054124.094623
+e298054124.155881
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/istupid.app/ontap.jpg
+xontap.jpg
+lSLF07#2@14"Copy ontap.jpg298054124#298054124#0(0"0(0#0#69"/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/ontap.jpg4300739032#522"    cd "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/ontap.jpg" "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app"0#
+
+CCpResource build/Debug-iphonesimulator/istupid.app/sound.wav sound.wav
+s298054124.095219
+e298054124.169195
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/istupid.app/sound.wav
+xsound.wav
+lSLF07#2@14"Copy sound.wav298054124#298054124#0(0"0(0#0#69"/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/sound.wav4300739032#522"    cd "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/sound.wav" "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app"0#
+
+CCpResource build/Debug-iphonesimulator/istupid.app/two.png two.png
+s298054124.094051
+e298054124.128593
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/istupid.app/two.png
+xtwo.png
+lSLF07#2@12"Copy two.png298054124#298054124#0(0"0(0#0#67"/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/two.png4300739032#520"    cd "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/two.png" "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app"0#
+
+CGenerateDSYMFile "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app.dSYM" "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app/istupid"
+s298054125.673456
+e298054125.730628
+r1
+xGenerateDSYMFile
+x/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app.dSYM
+x/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app/istupid
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/istupid.app.dSYM build/Debug-iphonesimulator/istupid.app/istupid298054125#298054125#0(0"0(0#0#107"/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app/istupid4300739032#452"    cd "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app/istupid" -o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app.dSYM"0#
+
+CLd "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app/istupid" normal i386
+s298054125.168781
+e298054125.673340
+r1
+xLd
+x/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app/istupid
+xnormal
+xi386
+lSLF07#2@112"Link /Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app/istupid298054125#298054125#0(0"0(0#0#0"4300739032#1001"    cd "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk "-L/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator" "-F/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator" -filelist "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/Objects-normal/i386/istupid.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app/istupid"0#
+
+CProcessInfoPlistFile "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app/Info.plist" istupid-Info.plist
+s298054123.657720
+e298054123.709115
+r1
+xProcessInfoPlistFile
+x/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app/Info.plist
+xistupid-Info.plist
+lSLF07#2@26"Process istupid-Info.plist298054123#298054123#0(0"0(0#0#78"/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/istupid-Info.plist6998652310594482176#548"    cd "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility istupid-Info.plist -genpkginfo "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app/Info.plist"0#
+
+CProcessPCH /var/folders/Ws/WsDt9bu1F1yDqqxhEVoHxk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/istupid_Prefix-hjdfqsykjkhiuobbsfoyfkqntcky/istupid_Prefix.pch.gch istupid_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s298054124.169342
+e298054124.960316
+r1
+xProcessPCH
+x/var/folders/Ws/WsDt9bu1F1yDqqxhEVoHxk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/istupid_Prefix-hjdfqsykjkhiuobbsfoyfkqntcky/istupid_Prefix.pch.gch
+xistupid_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile istupid_Prefix.pch298054124#298054124#0(0"0(0#0#78"/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/istupid_Prefix.pch4300739032#1979"    cd "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/istupid-generated-files.hmap" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/istupid-own-target-headers.hmap" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/istupid-all-target-headers.hmap" -iquote "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/istupid-project-headers.hmap" "-F/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/include" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/DerivedSources/i386" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/istupid.build/Debug-iphonesimulator/istupid.build/DerivedSources" -c "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/istupid_Prefix.pch" -o /var/folders/Ws/WsDt9bu1F1yDqqxhEVoHxk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/istupid_Prefix-hjdfqsykjkhiuobbsfoyfkqntcky/istupid_Prefix.pch.gch0#
+
+CTouch "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app"
+s298054125.730720
+e298054125.759796
+r1
+xTouch
+x/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app
+lSLF07#2@105"Touch /Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app298054125#298054125#0(0"0(0#0#0"4300739032#324"    cd "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/istupid/build/Debug-iphonesimulator/istupid.app"0#
+

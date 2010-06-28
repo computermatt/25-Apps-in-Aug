@@ -1,0 +1,401 @@
+Tmulti-light
+v7
+r0
+t277489744.142844
+cCheck dependencies
+cProcessInfoPlistFile "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/multi-light.app/Info.plist" multi_light-Info.plist
+cCompileXIB "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/MainWindow.xib"
+cCpResource build/Debug-iphonesimulator/multi-light.app/red.png red.png
+cCpResource build/Debug-iphonesimulator/multi-light.app/white.png white.png
+cCpResource build/Debug-iphonesimulator/multi-light.app/icon.png icon.png
+cProcessPCH /var/folders/eK/eKy+cY9lGOuUMW2sAs24FU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/multi_light_Prefix-fbfqmhjptkmagqdwdflatehpmbzm/multi_light_Prefix.pch.gch multi_light_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/main.o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/multi_lightAppDelegate.o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/multi_lightAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/multi_lightViewController.o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/multi_lightViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/Controller.o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/../Controller.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/Homeview.o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/../Homeview.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/White.o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/../White.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/Red.o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/../Red.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/multi-light.app/multi-light" normal i386
+cGenerateDSYMFile "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/multi-light.app.dSYM" "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/multi-light.app/multi-light"
+cTouch "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/multi-light.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A982F8400000000000000EE
+t1251487620
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/../Controller.m
+c000000004A7615D10000000000000354
+t1249252817
+s852
+i"Controller.h"
+i"Homeview.h"
+i"White.h"
+i"Red.h"
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/../Homeview.m
+c000000004A76159E0000000000000218
+t1249252766
+s536
+i"Homeview.h"
+i"Controller.h"
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/../Red.m
+c000000004A7615A800000000000001EC
+t1249252776
+s492
+i"Red.h"
+i"Controller.h"
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/../White.m
+c000000004A7615B200000000000001F2
+t1249252786
+s498
+i"White.h"
+i"Controller.h"
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/multi_lightAppDelegate.h
+c000000004A7615CC000000000000032C
+t1249252812
+s812
+i<UIKit/UIKit.h>
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/multi_lightAppDelegate.m
+c000000004AD9F0CC00000000000003D2
+t1255796940
+s978
+i"multi_lightAppDelegate.h"
+i"multi_lightViewController.h"
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/multi_lightViewController.h
+c000000004A7615C2000000000000022F
+t1249252802
+s559
+i<UIKit/UIKit.h>
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/multi_lightViewController.m
+c000000004A7615BD00000000000006FC
+t1249252797
+s1788
+i"multi_lightViewController.h"
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Controller.h
+c000000004A7615D50000000000000296
+t1249252821
+s662
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Homeview.h
+c000000004A7615A3000000000000025F
+t1249252771
+s607
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/MainWindow.xib
+c000000004A7616C20000000000006E25
+t1249253058
+s28197
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Red.h
+c000000004A7615AD000000000000024B
+t1249252781
+s587
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/White.h
+c000000004A7615B7000000000000024D
+t1249252791
+s589
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/multi-light.app
+t1255796944
+s306
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/multi-light.app.dSYM
+t1255796944
+s102
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/multi-light.app/Info.plist
+t1249321200
+s586
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/multi-light.app/MainWindow.nib
+t1249321207
+s5626
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/multi-light.app/PkgInfo
+t1249321200
+s8
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/multi-light.app/icon.png
+t1249321200
+s3412
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/multi-light.app/multi-light
+t1255796944
+s22060
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/multi-light.app/red.png
+t1249321200
+s11565
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/multi-light.app/white.png
+t1249321200
+s11564
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/Controller.o
+t1255796943
+s9788
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/Homeview.o
+t1255796943
+s8244
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/Red.o
+t1255796943
+s7884
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/White.o
+t1255796943
+s7900
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/main.o
+t1255796942
+s5992
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/multi-light.LinkFileList
+c000000004AD9F0CC000000000000046E
+t1255796940
+s1134
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/multi_lightAppDelegate.o
+t1255796943
+s38120
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/multi_lightViewController.o
+t1255796943
+s29840
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/icon.png
+c000000004A7615530000000000000D54
+t1249252691
+s3412
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/main.m
+c000000004A760D5D0000000000000164
+t1249250653
+s356
+i<UIKit/UIKit.h>
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/multi_light_Prefix.pch
+c000000004A760D5D00000000000000BF
+t1249250653
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/red.png
+c000000004A7611790000000000002D2D
+t1249251705
+s11565
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/white.png
+c000000004A7611850000000000002D2C
+t1249251717
+s11564
+
+N/var/folders/eK/eKy+cY9lGOuUMW2sAs24FU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/multi_light_Prefix-fbfqmhjptkmagqdwdflatehpmbzm/multi_light_Prefix.pch.gch
+t1255796942
+s8704128
+
+Nmulti_light-Info.plist
+c000000004A7615820000000000000395
+t1249252738
+s917
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies277489740#277489741#0(0"0(0#1#0"2435009856#0"0#
+
+CCompileC build/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/Controller.o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/../Controller.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s277489743.194619
+e277489743.342385
+r1
+xCompileC
+xbuild/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/Controller.o
+x/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/../Controller.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/../Controller.m277489743#277489743#0(0"0(0#0#87"/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/../Controller.m2435009856#2257"    cd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-generated-files.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-own-target-headers.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-all-target-headers.hmap" -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-project-headers.hmap" "-F/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/include" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/DerivedSources/i386" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/DerivedSources" -include /var/folders/eK/eKy+cY9lGOuUMW2sAs24FU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/multi_light_Prefix-fbfqmhjptkmagqdwdflatehpmbzm/multi_light_Prefix.pch -c "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/../Controller.m" -o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/Controller.o"0#
+
+CCompileC build/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/Homeview.o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/../Homeview.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s277489743.342555
+e277489743.446339
+r1
+xCompileC
+xbuild/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/Homeview.o
+x/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/../Homeview.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/../Homeview.m277489743#277489743#0(0"0(0#0#85"/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/../Homeview.m2435009856#2253"    cd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-generated-files.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-own-target-headers.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-all-target-headers.hmap" -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-project-headers.hmap" "-F/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/include" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/DerivedSources/i386" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/DerivedSources" -include /var/folders/eK/eKy+cY9lGOuUMW2sAs24FU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/multi_light_Prefix-fbfqmhjptkmagqdwdflatehpmbzm/multi_light_Prefix.pch -c "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/../Homeview.m" -o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/Homeview.o"0#
+
+CCompileC build/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/Red.o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/../Red.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s277489743.553039
+e277489743.635868
+r1
+xCompileC
+xbuild/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/Red.o
+x/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/../Red.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/../Red.m277489743#277489743#0(0"0(0#0#80"/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/../Red.m2435009856#2243"    cd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-generated-files.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-own-target-headers.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-all-target-headers.hmap" -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-project-headers.hmap" "-F/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/include" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/DerivedSources/i386" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/DerivedSources" -include /var/folders/eK/eKy+cY9lGOuUMW2sAs24FU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/multi_light_Prefix-fbfqmhjptkmagqdwdflatehpmbzm/multi_light_Prefix.pch -c "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/../Red.m" -o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/Red.o"0#
+
+CCompileC build/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/White.o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/../White.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s277489743.446510
+e277489743.552869
+r1
+xCompileC
+xbuild/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/White.o
+x/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/../White.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/../White.m277489743#277489743#0(0"0(0#0#82"/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/../White.m2435009856#2247"    cd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-generated-files.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-own-target-headers.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-all-target-headers.hmap" -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-project-headers.hmap" "-F/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/include" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/DerivedSources/i386" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/DerivedSources" -include /var/folders/eK/eKy+cY9lGOuUMW2sAs24FU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/multi_light_Prefix-fbfqmhjptkmagqdwdflatehpmbzm/multi_light_Prefix.pch -c "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/../White.m" -o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/White.o"0#
+
+CCompileC build/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/main.o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s277489742.756783
+e277489742.928853
+r1
+xCompileC
+xbuild/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/main.o
+x/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/main.m277489742#277489742#0(0"0(0#0#70"/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/main.m2435009856#2234"    cd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-generated-files.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-own-target-headers.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-all-target-headers.hmap" -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-project-headers.hmap" "-F/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/include" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/DerivedSources/i386" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/DerivedSources" -include /var/folders/eK/eKy+cY9lGOuUMW2sAs24FU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/multi_light_Prefix-fbfqmhjptkmagqdwdflatehpmbzm/multi_light_Prefix.pch -c "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/main.m" -o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/multi_lightAppDelegate.o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/multi_lightAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s277489742.929021
+e277489743.095943
+r1
+xCompileC
+xbuild/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/multi_lightAppDelegate.o
+x/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/multi_lightAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/multi_lightAppDelegate.m: In function '-[multi_lightAppDelegate applicationDidFinishLaunching:]':
+o/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/multi_lightAppDelegate.m:24: warning: 'multi_lightAppDelegate' may not respond to '-setApplicationBadge:'
+o/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/multi_lightAppDelegate.m:24: warning: (Messages without a matching method signature
+o/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/multi_lightAppDelegate.m:24: warning: will be assumed to return 'id' and accept
+o/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/multi_lightAppDelegate.m:24: warning: '...' as arguments.)
+lSLF07#2@104"Compile /Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/multi_lightAppDelegate.m277489742#277489743#0(787"/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/multi_lightAppDelegate.m: In function '-[multi_lightAppDelegate applicationDidFinishLaunching:]':/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/multi_lightAppDelegate.m:24: warning: 'multi_lightAppDelegate' may not respond to '-setApplicationBadge:'/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/multi_lightAppDelegate.m:24: warning: (Messages without a matching method signature/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/multi_lightAppDelegate.m:24: warning: will be assumed to return 'id' and accept/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/multi_lightAppDelegate.m:24: warning: '...' as arguments.)2(22@67"'multi_lightAppDelegate' may not respond to '-setApplicationBadge:'277489742#170#178#0(6@96"/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/multi_lightAppDelegate.m277489740#24#0#24#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)277489742#348#156#0(6@96"/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/multi_lightAppDelegate.m277489740#24#0#24#0#0"0(0#0#96"/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/multi_lightAppDelegate.m2435009856#2278"    cd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-generated-files.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-own-target-headers.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-all-target-headers.hmap" -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-project-headers.hmap" "-F/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/include" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/DerivedSources/i386" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/DerivedSources" -include /var/folders/eK/eKy+cY9lGOuUMW2sAs24FU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/multi_light_Prefix-fbfqmhjptkmagqdwdflatehpmbzm/multi_light_Prefix.pch -c "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/multi_lightAppDelegate.m" -o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/multi_lightAppDelegate.o"0#
+
+CCompileC build/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/multi_lightViewController.o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/multi_lightViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s277489743.096109
+e277489743.194449
+r1
+xCompileC
+xbuild/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/multi_lightViewController.o
+x/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/multi_lightViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/multi_lightViewController.m277489743#277489743#0(0"0(0#0#99"/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/multi_lightViewController.m2435009856#2284"    cd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-generated-files.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-own-target-headers.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-all-target-headers.hmap" -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-project-headers.hmap" "-F/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/include" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/DerivedSources/i386" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/DerivedSources" -include /var/folders/eK/eKy+cY9lGOuUMW2sAs24FU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/multi_light_Prefix-fbfqmhjptkmagqdwdflatehpmbzm/multi_light_Prefix.pch -c "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/Classes/multi_lightViewController.m" -o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/multi_lightViewController.o"0#
+
+CCompileXIB "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/MainWindow.xib"
+r0
+
+CCpResource build/Debug-iphonesimulator/multi-light.app/icon.png icon.png
+r0
+
+CCpResource build/Debug-iphonesimulator/multi-light.app/red.png red.png
+r0
+
+CCpResource build/Debug-iphonesimulator/multi-light.app/white.png white.png
+r0
+
+CGenerateDSYMFile "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/multi-light.app.dSYM" "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/multi-light.app/multi-light"
+s277489744.017482
+e277489744.136101
+r1
+xGenerateDSYMFile
+x/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/multi-light.app.dSYM
+x/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/multi-light.app/multi-light
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/multi-light.app.dSYM build/Debug-iphonesimulator/multi-light.app/multi-light277489744#277489744#0(0"0(0#0#119"/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/multi-light.app/multi-light2435009856#476"    cd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/multi-light.app/multi-light" -o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/multi-light.app.dSYM"0#
+
+CLd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/multi-light.app/multi-light" normal i386
+s277489743.636019
+e277489744.017319
+r1
+xLd
+x/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/multi-light.app/multi-light
+xnormal
+xi386
+lSLF07#2@124"Link /Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/multi-light.app/multi-light277489743#277489744#0(0"0(0#0#0"2435009856#1017"    cd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk "-L/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator" "-F/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator" -filelist "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/Objects-normal/i386/multi-light.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/multi-light.app/multi-light"0#
+
+CProcessInfoPlistFile "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/multi-light.app/Info.plist" multi_light-Info.plist
+r0
+
+CProcessPCH /var/folders/eK/eKy+cY9lGOuUMW2sAs24FU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/multi_light_Prefix-fbfqmhjptkmagqdwdflatehpmbzm/multi_light_Prefix.pch.gch multi_light_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s277489740.744259
+e277489742.756490
+r1
+xProcessPCH
+x/var/folders/eK/eKy+cY9lGOuUMW2sAs24FU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/multi_light_Prefix-fbfqmhjptkmagqdwdflatehpmbzm/multi_light_Prefix.pch.gch
+xmulti_light_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile multi_light_Prefix.pch277489740#277489742#0(0"0(0#0#86"/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/multi_light_Prefix.pch2435009856#2095"    cd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-generated-files.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-own-target-headers.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-all-target-headers.hmap" -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/multi-light-project-headers.hmap" "-F/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/include" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/DerivedSources/i386" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/multi-light.build/Debug-iphonesimulator/multi-light.build/DerivedSources" -c "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/multi_light_Prefix.pch" -o /var/folders/eK/eKy+cY9lGOuUMW2sAs24FU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/multi_light_Prefix-fbfqmhjptkmagqdwdflatehpmbzm/multi_light_Prefix.pch.gch0#
+
+CTouch "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/multi-light.app"
+s277489744.136243
+e277489744.142770
+r1
+xTouch
+x/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/multi-light.app
+lSLF07#2@113"Touch /Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/multi-light.app277489744#277489744#0(0"0(0#0#0"2435009856#336"    cd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/multi-light/build/Debug-iphonesimulator/multi-light.app"0#
+

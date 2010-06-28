@@ -1,0 +1,191 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* tic_tac_toeAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {762, 336}}";
+			sepNavSelRange = "{51, 0}";
+			sepNavVisRange = "{48, 628}";
+		};
+	};
+	1D3623250D0F684500981E51 /* tic_tac_toeAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {762, 406}}";
+			sepNavSelRange = "{332, 0}";
+			sepNavVisRange = "{0, 497}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* tic-tac-toe */ = {
+		activeExec = 0;
+		executables = (
+			C9A3BD601028AEA40034AF9B /* tic-tac-toe */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* tic_tac_toeViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {762, 812}}";
+			sepNavSelRange = "{335, 0}";
+			sepNavVisRange = "{1117, 686}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* tic_tac_toeViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {887, 3224}}";
+			sepNavSelRange = "{374, 0}";
+			sepNavVisRange = "{4863, 296}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C9A3BD601028AEA40034AF9B /* tic-tac-toe */;
+		activeSDKPreference = iphonesimulator3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* tic-tac-toe */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* tic-tac-toe */,
+		);
+		codeSenseManager = C9A3BD761028AEB40034AF9B /* Code sense */;
+		executables = (
+			C9A3BD601028AEA40034AF9B /* tic-tac-toe */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 298297235;
+			PBXWorkspaceStateSaveDate = 298297235;
+		};
+		perUserProjectItems = {
+			C98911901028B29F000E6715 /* PlistBookmark */ = C98911901028B29F000E6715 /* PlistBookmark */;
+			C9A4E99E11C7A79600CB15C9 /* PBXTextBookmark */ = C9A4E99E11C7A79600CB15C9 /* PBXTextBookmark */;
+			C9BC05501028D1A100208F82 /* PBXTextBookmark */ = C9BC05501028D1A100208F82 /* PBXTextBookmark */;
+			C9BC05511028D1A100208F82 /* PBXTextBookmark */ = C9BC05511028D1A100208F82 /* PBXTextBookmark */;
+			C9BE890411C6DDCC00FDA650 /* PBXTextBookmark */ = C9BE890411C6DDCC00FDA650 /* PBXTextBookmark */;
+			C9EB47701029195A0038ABA4 /* PBXTextBookmark */ = C9EB47701029195A0038ABA4 /* PBXTextBookmark */;
+		};
+		sourceControlManager = C9A3BD751028AEB40034AF9B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	C98911901028B29F000E6715 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* tic_tac_toe-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/matt/Desktop/tic-tac-toe/tic_tac_toe-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	C9A3BD601028AEA40034AF9B /* tic-tac-toe */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "tic-tac-toe";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	C9A3BD751028AEB40034AF9B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C9A3BD761028AEB40034AF9B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C9A4E99E11C7A79600CB15C9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* tic_tac_toeViewController.m */;
+		name = "tic_tac_toeViewController.m: 10";
+		rLen = 0;
+		rLoc = 374;
+		rType = 0;
+		vrLen = 296;
+		vrLoc = 4863;
+	};
+	C9BC05501028D1A100208F82 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* tic_tac_toeAppDelegate.h */;
+		name = "tic_tac_toeAppDelegate.h: 5";
+		rLen = 0;
+		rLoc = 51;
+		rType = 0;
+		vrLen = 628;
+		vrLoc = 48;
+	};
+	C9BC05511028D1A100208F82 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* tic_tac_toeAppDelegate.m */;
+		name = "tic_tac_toeAppDelegate.m: 8";
+		rLen = 0;
+		rLoc = 332;
+		rType = 0;
+		vrLen = 497;
+		vrLoc = 0;
+	};
+	C9BE890411C6DDCC00FDA650 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* tic_tac_toeViewController.m */;
+		name = "tic_tac_toeViewController.m: 10";
+		rLen = 0;
+		rLoc = 374;
+		rType = 0;
+		vrLen = 317;
+		vrLoc = 4863;
+	};
+	C9EB47701029195A0038ABA4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* tic_tac_toeViewController.h */;
+		name = "tic_tac_toeViewController.h: 8";
+		rLen = 0;
+		rLoc = 335;
+		rType = 0;
+		vrLen = 686;
+		vrLoc = 1117;
+	};
+}

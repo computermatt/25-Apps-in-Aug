@@ -1,0 +1,278 @@
+Ttic-tac-toe
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk
+c000000004C059C0E0000000000000110
+t1275436046
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+c000000004B9F103D00000000000001E5
+t1268715581
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AC100000000003B4B70
+t1268792001
+s3885936
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F26D2000000000036A650
+t1268721362
+s3581520
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F26B90000000000001355
+t1268721337
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B9F318D000000000000098F
+t1268724109
+s2447
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B9F32090000000002703230
+t1268724233
+s40907312
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/Classes/tic_tac_toeAppDelegate.h
+c000000004A789A1B00000000000002AB
+t1249417755
+s683
+i<UIKit/UIKit.h>
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/Classes/tic_tac_toeAppDelegate.m
+c000000004A787B1600000000000002F5
+t1249409814
+s757
+i"tic_tac_toeAppDelegate.h"
+i"tic_tac_toeViewController.h"
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/Classes/tic_tac_toeViewController.h
+c000000004A787B0B000000000000070B
+t1249409803
+s1803
+i<UIKit/UIKit.h>
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/Classes/tic_tac_toeViewController.m
+c000000004A787B050000000000001444
+t1249409797
+s5188
+i"tic_tac_toeViewController.h"
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/MainWindow.xib
+c000000004A7877240000000000002441
+t1249408804
+s9281
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/O.png
+c0000000049B457CD00000000000012C0
+t1236555725
+s4800
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/X.png
+c0000000049B458130000000000000E4F
+t1236555795
+s3663
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/board.png
+c0000000049B45F250000000000000D86
+t1236557605
+s3462
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphoneos/tic-tac-toe.app
+t2
+s0
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphoneos/tic-tac-toe.app.dSYM
+t2
+s0
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphoneos/tic-tac-toe.app/Info.plist
+t2
+s0
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphoneos/tic-tac-toe.app/MainWindow.nib
+t2
+s0
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphoneos/tic-tac-toe.app/O.png
+t2
+s0
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphoneos/tic-tac-toe.app/PkgInfo
+t2
+s0
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphoneos/tic-tac-toe.app/ResourceRules.plist
+t2
+s0
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphoneos/tic-tac-toe.app/X.png
+t2
+s0
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphoneos/tic-tac-toe.app/board.png
+t2
+s0
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphoneos/tic-tac-toe.app/icon.png
+t2
+s0
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphoneos/tic-tac-toe.app/tic-tac-toe
+t2
+s0
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphoneos/tic-tac-toe.app/tic_tac_toeViewController.nib
+t2
+s0
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphoneos/tic-tac-toe.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphoneos/tic-tac-toe.build/Objects-normal/armv6/tic-tac-toe
+t2
+s0
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphoneos/tic-tac-toe.build/Objects-normal/armv6/tic-tac-toe.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphoneos/tic-tac-toe.build/Objects-normal/armv6/tic_tac_toeAppDelegate.o
+t2
+s0
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphoneos/tic-tac-toe.build/Objects-normal/armv6/tic_tac_toeViewController.o
+t2
+s0
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphoneos/tic-tac-toe.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphoneos/tic-tac-toe.build/Objects-normal/armv7/tic-tac-toe
+t2
+s0
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphoneos/tic-tac-toe.build/Objects-normal/armv7/tic-tac-toe.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphoneos/tic-tac-toe.build/Objects-normal/armv7/tic_tac_toeAppDelegate.o
+t2
+s0
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphoneos/tic-tac-toe.build/Objects-normal/armv7/tic_tac_toeViewController.o
+t2
+s0
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/icon.png
+c000000004A787A190000000000000E0E
+t1249409561
+s3598
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/main.m
+c000000004A7877240000000000000164
+t1249408804
+s356
+i<UIKit/UIKit.h>
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/tic_tac_toeViewController.xib
+c000000004A78795E00000000000058EF
+t1249409374
+s22767
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/tic_tac_toe_Prefix.pch
+c000000004A78772400000000000000BF
+t1249408804
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/Ws/WsDt9bu1F1yDqqxhEVoHxk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tic_tac_toe_Prefix-cirobmpalrrkfnfhhckeymnbjkfe/tic_tac_toe_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Ws/WsDt9bu1F1yDqqxhEVoHxk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tic_tac_toe_Prefix-gftxebctppanxvgnvyfotxuxsbcp/tic_tac_toe_Prefix.pch.gch
+t2
+s0
+
+Ntic_tac_toe-Info.plist
+c000000004A787A350000000000000395
+t1249409589
+s917
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies298245550#298245550#0(262"[BEROR]Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain[BWARN]warning: building with 'Targeted Device Family' set to iPhone only ('1') not supported with SDK 'Device - iPhone OS 3.2'.2(4@125"Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain298245550#18446744073709551615#0#0(1@0"0(22@121"warning: building with 'Targeted Device Family' set to iPhone only ('1') not supported with SDK 'Device - iPhone OS 3.2'.298245550#18446744073709551615#0#0(1@0"0(0#1#0"32651522506817640#0"0#
+
+CCompileC build/tic-tac-toe.build/Debug-iphoneos/tic-tac-toe.build/Objects-normal/armv6/main.o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/tic-tac-toe.build/Debug-iphoneos/tic-tac-toe.build/Objects-normal/armv6/tic_tac_toeAppDelegate.o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/Classes/tic_tac_toeAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/tic-tac-toe.build/Debug-iphoneos/tic-tac-toe.build/Objects-normal/armv6/tic_tac_toeViewController.o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/Classes/tic_tac_toeViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/tic-tac-toe.build/Debug-iphoneos/tic-tac-toe.build/Objects-normal/armv7/main.o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/tic-tac-toe.build/Debug-iphoneos/tic-tac-toe.build/Objects-normal/armv7/tic_tac_toeAppDelegate.o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/Classes/tic_tac_toeAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/tic-tac-toe.build/Debug-iphoneos/tic-tac-toe.build/Objects-normal/armv7/tic_tac_toeViewController.o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/Classes/tic_tac_toeViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/tic_tac_toeViewController.xib"
+r0
+
+CCopyPNGFile "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphoneos/tic-tac-toe.app/O.png" O.png
+r0
+
+CCopyPNGFile "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphoneos/tic-tac-toe.app/X.png" X.png
+r0
+
+CCopyPNGFile "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphoneos/tic-tac-toe.app/board.png" board.png
+r0
+
+CCopyPNGFile "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphoneos/tic-tac-toe.app/icon.png" icon.png
+r0
+
+CCpResource build/Debug-iphoneos/tic-tac-toe.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphoneos/tic-tac-toe.app/tic-tac-toe" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphoneos/tic-tac-toe.app.dSYM" "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphoneos/tic-tac-toe.app/tic-tac-toe"
+r0
+
+CLd "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphoneos/tic-tac-toe.build/Objects-normal/armv6/tic-tac-toe" normal armv6
+r0
+
+CLd "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphoneos/tic-tac-toe.build/Objects-normal/armv7/tic-tac-toe" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphoneos/tic-tac-toe.app/Info.plist" tic_tac_toe-Info.plist
+r0
+
+CProcessPCH /var/folders/Ws/WsDt9bu1F1yDqqxhEVoHxk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tic_tac_toe_Prefix-cirobmpalrrkfnfhhckeymnbjkfe/tic_tac_toe_Prefix.pch.gch tic_tac_toe_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Ws/WsDt9bu1F1yDqqxhEVoHxk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tic_tac_toe_Prefix-gftxebctppanxvgnvyfotxuxsbcp/tic_tac_toe_Prefix.pch.gch tic_tac_toe_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphoneos/tic-tac-toe.app"
+r0
+

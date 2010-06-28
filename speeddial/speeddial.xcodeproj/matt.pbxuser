@@ -1,0 +1,296 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* speeddialAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1200, 378}}";
+			sepNavSelRange = "{457, 0}";
+			sepNavVisRange = "{0, 652}";
+		};
+	};
+	1D3623250D0F684500981E51 /* speeddialAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1200, 490}}";
+			sepNavSelRange = "{457, 0}";
+			sepNavVisRange = "{0, 587}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* speeddial */ = {
+		activeExec = 0;
+		executables = (
+			C929A3B7103C89AA00CBEC8B /* speeddial */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* speeddialViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1200, 364}}";
+			sepNavSelRange = "{709, 0}";
+			sepNavVisRange = "{138, 614}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* speeddialViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1200, 784}}";
+			sepNavSelRange = "{138, 0}";
+			sepNavVisRange = "{0, 584}";
+			sepNavWindowFrame = "{{15, 180}, {1102, 693}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C929A3B7103C89AA00CBEC8B /* speeddial */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* speeddial */;
+		codeSenseManager = C929A3C7103C89B200CBEC8B /* Code sense */;
+		executables = (
+			C929A3B7103C89AA00CBEC8B /* speeddial */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 272590651;
+			PBXWorkspaceStateSaveDate = 272590651;
+		};
+		perUserProjectItems = {
+			C929A3F4103C8E0D00CBEC8B /* PBXTextBookmark */ = C929A3F4103C8E0D00CBEC8B /* PBXTextBookmark */;
+			C929A3F5103C8E0D00CBEC8B /* PBXTextBookmark */ = C929A3F5103C8E0D00CBEC8B /* PBXTextBookmark */;
+			C940BB68103C9C93003DB513 /* PBXTextBookmark */ = C940BB68103C9C93003DB513 /* PBXTextBookmark */;
+			C940BB69103C9C93003DB513 /* PBXTextBookmark */ = C940BB69103C9C93003DB513 /* PBXTextBookmark */;
+			C940BB6B103C9C93003DB513 /* PBXTextBookmark */ = C940BB6B103C9C93003DB513 /* PBXTextBookmark */;
+			C940BB70103C9C93003DB513 /* PBXTextBookmark */ = C940BB70103C9C93003DB513 /* PBXTextBookmark */;
+			C98BF94E103F69D30026714D /* PBXTextBookmark */ = C98BF94E103F69D30026714D /* PBXTextBookmark */;
+			C9CFE2D8103C9B890021134E /* PlistBookmark */ = C9CFE2D8103C9B890021134E /* PlistBookmark */;
+			C9CFE2D9103C9B890021134E /* PBXTextBookmark */ = C9CFE2D9103C9B890021134E /* PBXTextBookmark */;
+			C9CFE2DA103C9B890021134E /* PBXTextBookmark */ = C9CFE2DA103C9B890021134E /* PBXTextBookmark */;
+			C9CFE2DD103C9B890021134E /* PBXTextBookmark */ = C9CFE2DD103C9B890021134E /* PBXTextBookmark */;
+			C9CFE2E0103C9B890021134E /* PlistBookmark */ = C9CFE2E0103C9B890021134E /* PlistBookmark */;
+			C9CFE2E2103C9B890021134E /* PBXTextBookmark */ = C9CFE2E2103C9B890021134E /* PBXTextBookmark */;
+			C9CFE2E3103C9B890021134E /* PBXTextBookmark */ = C9CFE2E3103C9B890021134E /* PBXTextBookmark */;
+			C9CFE2E6103C9B890021134E /* PBXTextBookmark */ = C9CFE2E6103C9B890021134E /* PBXTextBookmark */;
+		};
+		sourceControlManager = C929A3C6103C89B200CBEC8B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1200, 308}}";
+			sepNavSelRange = "{441, 0}";
+			sepNavVisRange = "{0, 650}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* speeddial_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {552, 253}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 187}";
+		};
+	};
+	C929A3B7103C89AA00CBEC8B /* speeddial */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = speeddial;
+		sourceDirectories = (
+		);
+	};
+	C929A3C6103C89B200CBEC8B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	C929A3C7103C89B200CBEC8B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C929A3F4103C8E0D00CBEC8B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* speeddialViewController.h */;
+		name = "speeddialViewController.h: 17";
+		rLen = 0;
+		rLoc = 745;
+		rType = 0;
+		vrLen = 374;
+		vrLoc = 0;
+	};
+	C929A3F5103C8E0D00CBEC8B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* speeddialViewController.m */;
+		name = "speeddialViewController.m: 20";
+		rLen = 0;
+		rLoc = 811;
+		rType = 0;
+		vrLen = 522;
+		vrLoc = 192;
+	};
+	C940BB68103C9C93003DB513 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 12";
+		rLen = 0;
+		rLoc = 441;
+		rType = 0;
+		vrLen = 650;
+		vrLoc = 0;
+	};
+	C940BB69103C9C93003DB513 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* speeddialViewController.h */;
+		name = "speeddialViewController.h: 22";
+		rLen = 0;
+		rLoc = 709;
+		rType = 0;
+		vrLen = 614;
+		vrLoc = 138;
+	};
+	C940BB6B103C9C93003DB513 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 12";
+		rLen = 0;
+		rLoc = 441;
+		rType = 0;
+		vrLen = 650;
+		vrLoc = 0;
+	};
+	C940BB70103C9C93003DB513 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* speeddialViewController.m */;
+		name = "speeddialViewController.m: 55";
+		rLen = 5;
+		rLoc = 1431;
+		rType = 0;
+		vrLen = 601;
+		vrLoc = 258;
+	};
+	C98BF94E103F69D30026714D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* speeddialViewController.m */;
+		name = "speeddialViewController.m: 8";
+		rLen = 0;
+		rLoc = 138;
+		rType = 0;
+		vrLen = 584;
+		vrLoc = 0;
+	};
+	C9CFE2D8103C9B890021134E /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* speeddial-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = "/Users/matt/Desktop/speeddial/speeddial-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	C9CFE2D9103C9B890021134E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* speeddialAppDelegate.h */;
+		name = "speeddialAppDelegate.h: 12";
+		rLen = 0;
+		rLoc = 457;
+		rType = 0;
+		vrLen = 652;
+		vrLoc = 0;
+	};
+	C9CFE2DA103C9B890021134E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* speeddialAppDelegate.m */;
+		name = "speeddialAppDelegate.m: 12";
+		rLen = 0;
+		rLoc = 457;
+		rType = 0;
+		vrLen = 587;
+		vrLoc = 0;
+	};
+	C9CFE2DD103C9B890021134E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* speeddial_Prefix.pch */;
+		name = "speeddial_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 187;
+		vrLoc = 0;
+	};
+	C9CFE2E0103C9B890021134E /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* speeddial-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = "/Users/matt/Desktop/speeddial/speeddial-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	C9CFE2E2103C9B890021134E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* speeddialAppDelegate.h */;
+		name = "speeddialAppDelegate.h: 12";
+		rLen = 0;
+		rLoc = 457;
+		rType = 0;
+		vrLen = 652;
+		vrLoc = 0;
+	};
+	C9CFE2E3103C9B890021134E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* speeddialAppDelegate.m */;
+		name = "speeddialAppDelegate.m: 12";
+		rLen = 0;
+		rLoc = 457;
+		rType = 0;
+		vrLen = 587;
+		vrLoc = 0;
+	};
+	C9CFE2E6103C9B890021134E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* speeddial_Prefix.pch */;
+		name = "speeddial_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 187;
+		vrLoc = 0;
+	};
+}

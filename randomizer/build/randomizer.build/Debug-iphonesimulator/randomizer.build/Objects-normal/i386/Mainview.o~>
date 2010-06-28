@@ -1,0 +1,2 @@
+/Users/matt/Desktop/randomizer/Classes/../Mainview.m: In function '-[Mainview playsound]':
+/Users/matt/Desktop/randomizer/Classes/../Mainview.m:58: warning: passing argument 2 of 'CFBundleCopyResourceURL' from incompatible pointer type

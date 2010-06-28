@@ -1,0 +1,293 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* No_AgendaAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* No_AgendaAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765A40DF7441C002DB57D /* CoreGraphics.framework */; };
+		2899E5220DE3E06400AC0155 /* No_AgendaViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* No_AgendaViewController.xib */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		28D7ACF80DDB3853001CB0EB /* No_AgendaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* No_AgendaViewController.m */; };
+		C92817921024A5A800ECA4B5 /* 88x31.png in Resources */ = {isa = PBXBuildFile; fileRef = C92817911024A5A800ECA4B5 /* 88x31.png */; };
+		C9E907C51011630D00866A00 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9E907C41011630D00866A00 /* AudioToolbox.framework */; };
+		C9E907C81011670B00866A00 /* cctv.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C9E907C71011670B00866A00 /* cctv.jpg */; };
+		C9E907F210116A7200866A00 /* News.aif in Resources */ = {isa = PBXBuildFile; fileRef = C9E907EC10116A7100866A00 /* News.aif */; };
+		C9E907F310116A7200866A00 /* lookatthat.aif in Resources */ = {isa = PBXBuildFile; fileRef = C9E907ED10116A7100866A00 /* lookatthat.aif */; };
+		C9E907F410116A7200866A00 /* morning.aif in Resources */ = {isa = PBXBuildFile; fileRef = C9E907EE10116A7100866A00 /* morning.aif */; };
+		C9E907F910116B5100866A00 /* listentous.aif in Resources */ = {isa = PBXBuildFile; fileRef = C9E907F710116B5100866A00 /* listentous.aif */; };
+		C9E907FA10116B5100866A00 /* monsanto.aif in Resources */ = {isa = PBXBuildFile; fileRef = C9E907F810116B5100866A00 /* monsanto.aif */; };
+		C9E9080510116C7C00866A00 /* oxley.aif in Resources */ = {isa = PBXBuildFile; fileRef = C9E9080410116C7C00866A00 /* oxley.aif */; };
+		C9E9080A10116CFB00866A00 /* johnsays.aif in Resources */ = {isa = PBXBuildFile; fileRef = C9E9080910116CFB00866A00 /* johnsays.aif */; };
+		C9E9080D10116E0800866A00 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = C9E9080C10116E0800866A00 /* icon.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* No_AgendaAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = No_AgendaAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* No_AgendaAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = No_AgendaAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* No Agenda.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "No Agenda.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765A40DF7441C002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		2899E5210DE3E06400AC0155 /* No_AgendaViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = No_AgendaViewController.xib; sourceTree = "<group>"; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		28D7ACF60DDB3853001CB0EB /* No_AgendaViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = No_AgendaViewController.h; sourceTree = "<group>"; };
+		28D7ACF70DDB3853001CB0EB /* No_AgendaViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = No_AgendaViewController.m; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* No_Agenda_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = No_Agenda_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* No_Agenda-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "No_Agenda-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		C92817911024A5A800ECA4B5 /* 88x31.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 88x31.png; sourceTree = "<group>"; };
+		C9E907C41011630D00866A00 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = /System/Library/Frameworks/AudioToolbox.framework; sourceTree = "<absolute>"; };
+		C9E907C71011670B00866A00 /* cctv.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cctv.jpg; sourceTree = "<group>"; };
+		C9E907EC10116A7100866A00 /* News.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = News.aif; sourceTree = "<group>"; };
+		C9E907ED10116A7100866A00 /* lookatthat.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = lookatthat.aif; sourceTree = "<group>"; };
+		C9E907EE10116A7100866A00 /* morning.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = morning.aif; sourceTree = "<group>"; };
+		C9E907F710116B5100866A00 /* listentous.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = listentous.aif; sourceTree = "<group>"; };
+		C9E907F810116B5100866A00 /* monsanto.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = monsanto.aif; sourceTree = "<group>"; };
+		C9E9080410116C7C00866A00 /* oxley.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = oxley.aif; sourceTree = "<group>"; };
+		C9E9080910116CFB00866A00 /* johnsays.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = johnsays.aif; sourceTree = "<group>"; };
+		C9E9080C10116E0800866A00 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */,
+				C9E907C51011630D00866A00 /* AudioToolbox.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				1D3623240D0F684500981E51 /* No_AgendaAppDelegate.h */,
+				1D3623250D0F684500981E51 /* No_AgendaAppDelegate.m */,
+				28D7ACF60DDB3853001CB0EB /* No_AgendaViewController.h */,
+				28D7ACF70DDB3853001CB0EB /* No_AgendaViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* No Agenda.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* No_Agenda_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				C9E9080410116C7C00866A00 /* oxley.aif */,
+				C92817911024A5A800ECA4B5 /* 88x31.png */,
+				C9E9080C10116E0800866A00 /* icon.png */,
+				C9E907F710116B5100866A00 /* listentous.aif */,
+				C9E9080910116CFB00866A00 /* johnsays.aif */,
+				C9E907F810116B5100866A00 /* monsanto.aif */,
+				C9E907EC10116A7100866A00 /* News.aif */,
+				C9E907ED10116A7100866A00 /* lookatthat.aif */,
+				C9E907EE10116A7100866A00 /* morning.aif */,
+				C9E907C71011670B00866A00 /* cctv.jpg */,
+				2899E5210DE3E06400AC0155 /* No_AgendaViewController.xib */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* No_Agenda-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C9E907C41011630D00866A00 /* AudioToolbox.framework */,
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765A40DF7441C002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* No Agenda */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "No Agenda" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "No Agenda";
+			productName = "No Agenda";
+			productReference = 1D6058910D05DD3D006BFB54 /* No Agenda.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "No Agenda" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* No Agenda */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				2899E5220DE3E06400AC0155 /* No_AgendaViewController.xib in Resources */,
+				C9E907C81011670B00866A00 /* cctv.jpg in Resources */,
+				C9E907F210116A7200866A00 /* News.aif in Resources */,
+				C9E907F310116A7200866A00 /* lookatthat.aif in Resources */,
+				C9E907F410116A7200866A00 /* morning.aif in Resources */,
+				C9E907F910116B5100866A00 /* listentous.aif in Resources */,
+				C9E907FA10116B5100866A00 /* monsanto.aif in Resources */,
+				C9E9080510116C7C00866A00 /* oxley.aif in Resources */,
+				C9E9080A10116CFB00866A00 /* johnsays.aif in Resources */,
+				C9E9080D10116E0800866A00 /* icon.png in Resources */,
+				C92817921024A5A800ECA4B5 /* 88x31.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* No_AgendaAppDelegate.m in Sources */,
+				28D7ACF80DDB3853001CB0EB /* No_AgendaViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = No_Agenda_Prefix.pch;
+				INFOPLIST_FILE = "No_Agenda-Info.plist";
+				PRODUCT_NAME = "No Agenda";
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = No_Agenda_Prefix.pch;
+				INFOPLIST_FILE = "No_Agenda-Info.plist";
+				PRODUCT_NAME = "No Agenda";
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.0;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "No Agenda" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "No Agenda" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

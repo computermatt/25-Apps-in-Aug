@@ -1,0 +1,307 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* WindowsAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* WindowsAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765A40DF7441C002DB57D /* CoreGraphics.framework */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		28D7ACF80DDB3853001CB0EB /* WindowsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* WindowsViewController.m */; };
+		C980E181103B86A40015EAE1 /* original.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C980E180103B86A40015EAE1 /* original.jpg */; };
+		C980E199103B899B0015EAE1 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = C980E198103B899B0015EAE1 /* icon.png */; };
+		C99795BA103B57E300FEDFE5 /* MainView.m in Sources */ = {isa = PBXBuildFile; fileRef = C99795B8103B57E300FEDFE5 /* MainView.m */; };
+		C99795D0103B587200FEDFE5 /* Login.m in Sources */ = {isa = PBXBuildFile; fileRef = C99795CF103B587200FEDFE5 /* Login.m */; };
+		C99795D3103B588600FEDFE5 /* Desktop.m in Sources */ = {isa = PBXBuildFile; fileRef = C99795D2103B588600FEDFE5 /* Desktop.m */; };
+		C99795D6103B589600FEDFE5 /* Startmenu.m in Sources */ = {isa = PBXBuildFile; fileRef = C99795D5103B589600FEDFE5 /* Startmenu.m */; };
+		C99795D9103B58A400FEDFE5 /* BSOD.m in Sources */ = {isa = PBXBuildFile; fileRef = C99795D7103B58A400FEDFE5 /* BSOD.m */; };
+		C99795EF103B592000FEDFE5 /* winxppro-2-1.png in Resources */ = {isa = PBXBuildFile; fileRef = C99795EB103B591F00FEDFE5 /* winxppro-2-1.png */; };
+		C99795F0103B592000FEDFE5 /* winxppro-1.png in Resources */ = {isa = PBXBuildFile; fileRef = C99795EC103B591F00FEDFE5 /* winxppro-1.png */; };
+		C99795F1103B592000FEDFE5 /* winxppro.png in Resources */ = {isa = PBXBuildFile; fileRef = C99795ED103B591F00FEDFE5 /* winxppro.png */; };
+		C99795F2103B592000FEDFE5 /* bsod.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C99795EE103B592000FEDFE5 /* bsod.jpg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* WindowsAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WindowsAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* WindowsAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WindowsAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* Windows.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Windows.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765A40DF7441C002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		28D7ACF60DDB3853001CB0EB /* WindowsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WindowsViewController.h; sourceTree = "<group>"; };
+		28D7ACF70DDB3853001CB0EB /* WindowsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WindowsViewController.m; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* Windows_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Windows_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* Windows-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Windows-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		C980E180103B86A40015EAE1 /* original.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = original.jpg; sourceTree = "<group>"; };
+		C980E198103B899B0015EAE1 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		C99795B8103B57E300FEDFE5 /* MainView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MainView.m; path = ../MainView.m; sourceTree = "<group>"; };
+		C99795B9103B57E300FEDFE5 /* MainView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MainView.h; path = ../MainView.h; sourceTree = "<group>"; };
+		C99795CE103B587200FEDFE5 /* Login.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Login.h; path = ../Login.h; sourceTree = "<group>"; };
+		C99795CF103B587200FEDFE5 /* Login.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Login.m; path = ../Login.m; sourceTree = "<group>"; };
+		C99795D1103B588600FEDFE5 /* Desktop.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Desktop.h; path = ../Desktop.h; sourceTree = "<group>"; };
+		C99795D2103B588600FEDFE5 /* Desktop.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Desktop.m; path = ../Desktop.m; sourceTree = "<group>"; };
+		C99795D4103B589600FEDFE5 /* Startmenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Startmenu.h; path = ../Startmenu.h; sourceTree = "<group>"; };
+		C99795D5103B589600FEDFE5 /* Startmenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Startmenu.m; path = ../Startmenu.m; sourceTree = "<group>"; };
+		C99795D7103B58A400FEDFE5 /* BSOD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BSOD.m; path = ../BSOD.m; sourceTree = "<group>"; };
+		C99795D8103B58A400FEDFE5 /* BSOD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BSOD.h; path = ../BSOD.h; sourceTree = "<group>"; };
+		C99795EB103B591F00FEDFE5 /* winxppro-2-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "winxppro-2-1.png"; sourceTree = "<group>"; };
+		C99795EC103B591F00FEDFE5 /* winxppro-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "winxppro-1.png"; sourceTree = "<group>"; };
+		C99795ED103B591F00FEDFE5 /* winxppro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = winxppro.png; sourceTree = "<group>"; };
+		C99795EE103B592000FEDFE5 /* bsod.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bsod.jpg; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				C99795B9103B57E300FEDFE5 /* MainView.h */,
+				C99795B8103B57E300FEDFE5 /* MainView.m */,
+				C99795CE103B587200FEDFE5 /* Login.h */,
+				C99795CF103B587200FEDFE5 /* Login.m */,
+				C99795D1103B588600FEDFE5 /* Desktop.h */,
+				C99795D2103B588600FEDFE5 /* Desktop.m */,
+				C99795D4103B589600FEDFE5 /* Startmenu.h */,
+				C99795D5103B589600FEDFE5 /* Startmenu.m */,
+				C99795D8103B58A400FEDFE5 /* BSOD.h */,
+				C99795D7103B58A400FEDFE5 /* BSOD.m */,
+				C99795B4103B57B600FEDFE5 /* stuff */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* Windows.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* Windows_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				C980E198103B899B0015EAE1 /* icon.png */,
+				C980E180103B86A40015EAE1 /* original.jpg */,
+				C99795EB103B591F00FEDFE5 /* winxppro-2-1.png */,
+				C99795EC103B591F00FEDFE5 /* winxppro-1.png */,
+				C99795ED103B591F00FEDFE5 /* winxppro.png */,
+				C99795EE103B592000FEDFE5 /* bsod.jpg */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* Windows-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765A40DF7441C002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C99795B4103B57B600FEDFE5 /* stuff */ = {
+			isa = PBXGroup;
+			children = (
+				1D3623240D0F684500981E51 /* WindowsAppDelegate.h */,
+				1D3623250D0F684500981E51 /* WindowsAppDelegate.m */,
+				28D7ACF60DDB3853001CB0EB /* WindowsViewController.h */,
+				28D7ACF70DDB3853001CB0EB /* WindowsViewController.m */,
+			);
+			name = stuff;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* Windows */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "Windows" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Windows;
+			productName = Windows;
+			productReference = 1D6058910D05DD3D006BFB54 /* Windows.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Windows" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* Windows */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				C99795EF103B592000FEDFE5 /* winxppro-2-1.png in Resources */,
+				C99795F0103B592000FEDFE5 /* winxppro-1.png in Resources */,
+				C99795F1103B592000FEDFE5 /* winxppro.png in Resources */,
+				C99795F2103B592000FEDFE5 /* bsod.jpg in Resources */,
+				C980E181103B86A40015EAE1 /* original.jpg in Resources */,
+				C980E199103B899B0015EAE1 /* icon.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* WindowsAppDelegate.m in Sources */,
+				28D7ACF80DDB3853001CB0EB /* WindowsViewController.m in Sources */,
+				C99795BA103B57E300FEDFE5 /* MainView.m in Sources */,
+				C99795D0103B587200FEDFE5 /* Login.m in Sources */,
+				C99795D3103B588600FEDFE5 /* Desktop.m in Sources */,
+				C99795D6103B589600FEDFE5 /* Startmenu.m in Sources */,
+				C99795D9103B58A400FEDFE5 /* BSOD.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Windows_Prefix.pch;
+				INFOPLIST_FILE = "Windows-Info.plist";
+				PRODUCT_NAME = Windows;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Windows_Prefix.pch;
+				INFOPLIST_FILE = "Windows-Info.plist";
+				PRODUCT_NAME = Windows;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.0;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "Windows" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Windows" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

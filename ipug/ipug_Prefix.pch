@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'ipug' target in the 'ipug' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

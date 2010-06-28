@@ -1,0 +1,5 @@
+In file included from /Users/matt/Desktop/randomizer/Classes/random.m:9:
+/Users/matt/Desktop/randomizer/Classes/random.h:12: error: 'random' redeclared as different kind of symbol
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/stdlib.h:223: error: previous declaration of 'random'
+/Users/matt/Desktop/randomizer/Classes/random.m:14: error: 'random' redeclared as different kind of symbol
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/stdlib.h:223: error: previous declaration of 'random'

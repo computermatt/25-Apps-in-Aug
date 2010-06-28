@@ -1,0 +1,147 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* iwozAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {784, 334}}";
+			sepNavSelRange = "{226, 0}";
+			sepNavVisRange = "{0, 549}";
+		};
+	};
+	1D3623250D0F684500981E51 /* iwozAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {784, 434}}";
+			sepNavSelRange = "{226, 0}";
+			sepNavVisRange = "{0, 590}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* iwoz */ = {
+		activeExec = 0;
+		executables = (
+			C98BD9BC1030F0BF0046AE1C /* iwoz */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* iwozViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {784, 334}}";
+			sepNavSelRange = "{229, 0}";
+			sepNavVisRange = "{0, 487}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* iwozViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {740, 1274}}";
+			sepNavSelRange = "{2040, 0}";
+			sepNavVisRange = "{1766, 712}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C98BD9BC1030F0BF0046AE1C /* iwoz */;
+		activeSDKPreference = iphoneos3.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* iwoz */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* iwoz */,
+		);
+		codeSenseManager = C98BD9CF1030F0C40046AE1C /* Code sense */;
+		executables = (
+			C98BD9BC1030F0BF0046AE1C /* iwoz */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					364,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 290916063;
+			PBXWorkspaceStateSaveDate = 290916063;
+		};
+		perUserProjectItems = {
+			C9536FEC115706EC00027B8E /* PBXTextBookmark */ = C9536FEC115706EC00027B8E /* PBXTextBookmark */;
+			C9536FED115706EC00027B8E /* PBXTextBookmark */ = C9536FED115706EC00027B8E /* PBXTextBookmark */;
+		};
+		sourceControlManager = C98BD9CE1030F0C40046AE1C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	C9536FEC115706EC00027B8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iwozViewController.m */;
+		name = "iwozViewController.m: 66";
+		rLen = 525;
+		rLoc = 1766;
+		rType = 0;
+		vrLen = 281;
+		vrLoc = 1766;
+	};
+	C9536FED115706EC00027B8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iwozViewController.m */;
+		name = "iwozViewController.m: 73";
+		rLen = 0;
+		rLoc = 2040;
+		rType = 0;
+		vrLen = 712;
+		vrLoc = 1766;
+	};
+	C98BD9BC1030F0BF0046AE1C /* iwoz */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iwoz;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	C98BD9CE1030F0C40046AE1C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C98BD9CF1030F0C40046AE1C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

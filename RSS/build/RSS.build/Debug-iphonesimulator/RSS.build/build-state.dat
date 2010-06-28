@@ -1,0 +1,393 @@
+TRSS
+v7
+r0
+t286495376.995647
+cCheck dependencies
+cProcessInfoPlistFile "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app/Info.plist" RSS-Info.plist
+cCompileXIB "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/MainWindow.xib"
+cCompileXIB "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/RootViewController.xib"
+cProcessPCH /var/folders/eK/eKy+cY9lGOuUMW2sAs24FU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RSS_Prefix-fdxwzvpqdghpynetwfhqskyxqnlm/RSS_Prefix.pch.gch RSS_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RSS.build/Debug-iphonesimulator/RSS.build/Objects-normal/i386/main.o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RSS.build/Debug-iphonesimulator/RSS.build/Objects-normal/i386/RSSAppDelegate.o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RSSAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RSS.build/Debug-iphonesimulator/RSS.build/Objects-normal/i386/RootViewController.o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app/RSS" normal i386
+cGenerateDSYMFile "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app.dSYM" "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app/RSS"
+cTouch "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004B994DE000000000000000EE
+t1268338144
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/Availability.h
+c000000004A0BAC5D00000000000019D8
+t1242279005
+s6616
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RSSAppDelegate.h
+c000000004A7C4C6C000000000000019F
+t1249660012
+s415
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RSSAppDelegate.m
+c000000004A7C4C720000000000000316
+t1249660018
+s790
+i"RSSAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RootViewController.h
+c000000004A7C4C6300000000000001E1
+t1249660003
+s481
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RootViewController.m
+c000000004A7C4C670000000000001DE7
+t1249660007
+s7655
+i"RootViewController.h"
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/RSS/MainWindow.xib
+c000000004A7B66080000000000002C18
+t1249601032
+s11288
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/RSS/RSS_Prefix.pch
+c000000004A7B66080000000000000138
+t1249601032
+s312
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/RSS/RootViewController.xib
+c000000004A7B68910000000000002179
+t1249601681
+s8569
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app
+t1264651043
+s238
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app.dSYM
+t1264651043
+s102
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app/Info.plist
+t1264651037
+s575
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app/MainWindow.nib
+t1264651038
+s1990
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app/PkgInfo
+t1264651037
+s8
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app/RSS
+t1264651043
+s26756
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app/RootViewController.nib
+t1264651039
+s1478
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/Objects-normal/i386/RSS.LinkFileList
+c000000004B610B1D00000000000001A1
+t1264651037
+s417
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/Objects-normal/i386/RSSAppDelegate.o
+t1264651042
+s39452
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/Objects-normal/i386/RootViewController.o
+t1264651042
+s52528
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/Objects-normal/i386/main.o
+t1264651041
+s5976
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/RSS/main.m
+c000000004A7B66080000000000000166
+t1249601032
+s358
+i<UIKit/UIKit.h>
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RSSAppDelegate.h
+c000000004A7C4C6C000000000000019F
+t1249660012
+s415
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RSSAppDelegate.m
+c000000004A7C4C720000000000000316
+t1249660018
+s790
+i"RSSAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RootViewController.h
+c000000004A7C4C6300000000000001E1
+t1249660003
+s481
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RootViewController.m
+c000000004A7C4C670000000000001DE7
+t1249660007
+s7655
+i"RootViewController.h"
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/MainWindow.xib
+c000000004A7B66080000000000002C18
+t1249601032
+s11288
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/RSS_Prefix.pch
+c000000004A7B66080000000000000138
+t1249601032
+s312
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/RootViewController.xib
+c000000004A7B68910000000000002179
+t1249601681
+s8569
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app
+t1264651043
+s238
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app.dSYM
+t1264651043
+s102
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app/Info.plist
+t1264651037
+s575
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app/MainWindow.nib
+t1264651038
+s1990
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app/PkgInfo
+t1264651037
+s8
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app/RSS
+t1264651043
+s26756
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app/RootViewController.nib
+t1264651039
+s1478
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/Objects-normal/i386/RSS.LinkFileList
+c000000004B610B1D00000000000001A1
+t1264651037
+s417
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/Objects-normal/i386/RSSAppDelegate.o
+t1264651042
+s39452
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/Objects-normal/i386/RootViewController.o
+t1264651042
+s52528
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/Objects-normal/i386/main.o
+t1264651041
+s5976
+
+N/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/main.m
+c000000004A7B66080000000000000166
+t1249601032
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/Ws/WsDt9bu1F1yDqqxhEVoHxk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RSS_Prefix-grnubrugfkuxsrhckonaczmmgabz/RSS_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/eK/eKy+cY9lGOuUMW2sAs24FU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RSS_Prefix-fdxwzvpqdghpynetwfhqskyxqnlm/RSS_Prefix.pch.gch
+t1264651041
+s8700032
+
+NRSS-Info.plist
+c000000004A7B6608000000000000038D
+t1249601032
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies286495376#286495377#0(0"0(0#1#0"4391208#0"0#
+
+CCompileC build/RSS.build/Debug-iphonesimulator/RSS.build/Objects-normal/i386/RSSAppDelegate.o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RSSAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/RSS.build/Debug-iphonesimulator/RSS.build/Objects-normal/i386/RSSAppDelegate.o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RSSAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s286343841.719889
+e286343842.060126
+r1
+xCompileC
+xbuild/RSS.build/Debug-iphonesimulator/RSS.build/Objects-normal/i386/RSSAppDelegate.o
+x/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RSSAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RSSAppDelegate.m286343841#286343842#0(0"0(0#0#80"/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RSSAppDelegate.m2562656368#2014"    cd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/RSS-generated-files.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/RSS-own-target-headers.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/RSS-all-target-headers.hmap" -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/RSS-project-headers.hmap" "-F/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/include" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/DerivedSources/i386" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/DerivedSources" -include /var/folders/eK/eKy+cY9lGOuUMW2sAs24FU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RSS_Prefix-fdxwzvpqdghpynetwfhqskyxqnlm/RSS_Prefix.pch -c "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RSSAppDelegate.m" -o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/Objects-normal/i386/RSSAppDelegate.o"0#
+
+CCompileC build/RSS.build/Debug-iphonesimulator/RSS.build/Objects-normal/i386/RootViewController.o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/RSS.build/Debug-iphonesimulator/RSS.build/Objects-normal/i386/RootViewController.o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s286343842.060282
+e286343842.386576
+r1
+xCompileC
+xbuild/RSS.build/Debug-iphonesimulator/RSS.build/Objects-normal/i386/RootViewController.o
+x/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RootViewController.m: In function '-[RootViewController viewDidAppear:]':
+o/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RootViewController.m:34: warning: 'RootViewController' may not respond to '-parseXMLFileAtURL:'
+o/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RootViewController.m:34: warning: (Messages without a matching method signature
+o/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RootViewController.m:34: warning: will be assumed to return 'id' and accept
+o/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RootViewController.m:34: warning: '...' as arguments.)
+o/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':
+o/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RootViewController.m:160: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:199)
+lSLF07#2@92"Compile /Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RootViewController.m286343842#286343842#0(1151"/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RootViewController.m: In function '-[RootViewController viewDidAppear:]':/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RootViewController.m:34: warning: 'RootViewController' may not respond to '-parseXMLFileAtURL:'/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RootViewController.m:34: warning: (Messages without a matching method signature/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RootViewController.m:34: warning: will be assumed to return 'id' and accept/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RootViewController.m:34: warning: '...' as arguments.)/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RootViewController.m:160: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:199)3(22@61"'RootViewController' may not respond to '-parseXMLFileAtURL:'286343842#138#160#0(6@84"/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RootViewController.m271352807#34#0#34#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)286343842#298#144#0(6@84"/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RootViewController.m271352807#34#0#34#0#0"0(22@194"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:199)286343842#857#294#0(6@84"/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RootViewController.m271352807#160#0#160#0#33"'*' is deprecated (declared at *)0(0#0#84"/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RootViewController.m2562656368#2022"    cd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/RSS-generated-files.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/RSS-own-target-headers.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/RSS-all-target-headers.hmap" -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/RSS-project-headers.hmap" "-F/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/include" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/DerivedSources/i386" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/DerivedSources" -include /var/folders/eK/eKy+cY9lGOuUMW2sAs24FU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RSS_Prefix-fdxwzvpqdghpynetwfhqskyxqnlm/RSS_Prefix.pch -c "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/Classes/RootViewController.m" -o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC build/RSS.build/Debug-iphonesimulator/RSS.build/Objects-normal/i386/main.o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/RSS/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/RSS.build/Debug-iphonesimulator/RSS.build/Objects-normal/i386/main.o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s286343841.276798
+e286343841.719736
+r1
+xCompileC
+xbuild/RSS.build/Debug-iphonesimulator/RSS.build/Objects-normal/i386/main.o
+x/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/main.m286343841#286343841#0(0"0(0#0#62"/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/main.m2562656368#1986"    cd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/RSS-generated-files.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/RSS-own-target-headers.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/RSS-all-target-headers.hmap" -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/RSS-project-headers.hmap" "-F/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/include" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/DerivedSources/i386" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/DerivedSources" -include /var/folders/eK/eKy+cY9lGOuUMW2sAs24FU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RSS_Prefix-fdxwzvpqdghpynetwfhqskyxqnlm/RSS_Prefix.pch -c "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/main.m" -o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/RSS/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/RSS/RootViewController.xib"
+r0
+
+CCompileXIB "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/MainWindow.xib"
+s286343837.500306
+e286343838.520567
+r1
+xCompileXIB
+x/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib286343837#286343838#0(0"0(0#0#70"/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/MainWindow.xib4391208#533"    cd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app/MainWindow.nib" "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/MainWindow.xib"0#
+
+CCompileXIB "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/RootViewController.xib"
+s286343838.520714
+e286343839.451894
+r1
+xCompileXIB
+x/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib286343838#286343839#0(0"0(0#0#78"/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/RootViewController.xib4391208#549"    cd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app/RootViewController.nib" "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/RootViewController.xib"0#
+
+CGenerateDSYMFile "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app.dSYM" "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app/RSS"
+r0
+
+CGenerateDSYMFile "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app.dSYM" "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app/RSS"
+s286343843.227392
+e286343843.346751
+r1
+xGenerateDSYMFile
+x/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app.dSYM
+x/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app/RSS
+lSLF07#2@97"GenerateDSYMFile build/Debug-iphonesimulator/RSS.app.dSYM build/Debug-iphonesimulator/RSS.app/RSS286343843#286343843#0(0"0(0#0#95"/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app/RSS4391208#428"    cd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app/RSS" -o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app.dSYM"0#
+
+CLd "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app/RSS" normal i386
+r0
+
+CLd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app/RSS" normal i386
+s286343842.386712
+e286343843.227128
+r1
+xLd
+x/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app/RSS
+xnormal
+xi386
+lSLF07#2@100"Link /Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app/RSS286343842#286343843#0(0"0(0#0#0"4391208#937"    cd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk "-L/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator" "-F/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator" -filelist "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/Objects-normal/i386/RSS.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app/RSS"0#
+
+CProcessInfoPlistFile "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app/Info.plist" RSS-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app/Info.plist" RSS-Info.plist
+s286343837.371533
+e286343837.499083
+r1
+xProcessInfoPlistFile
+x/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app/Info.plist
+xRSS-Info.plist
+lSLF07#2@22"Process RSS-Info.plist286343837#286343837#0(0"0(0#0#70"/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/RSS-Info.plist4391208#524"    cd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility RSS-Info.plist -genpkginfo "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app/Info.plist"0#
+
+CProcessPCH /var/folders/Ws/WsDt9bu1F1yDqqxhEVoHxk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RSS_Prefix-grnubrugfkuxsrhckonaczmmgabz/RSS_Prefix.pch.gch RSS_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/eK/eKy+cY9lGOuUMW2sAs24FU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RSS_Prefix-fdxwzvpqdghpynetwfhqskyxqnlm/RSS_Prefix.pch.gch RSS_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s286343839.452237
+e286343841.276285
+r1
+xProcessPCH
+x/var/folders/eK/eKy+cY9lGOuUMW2sAs24FU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RSS_Prefix-fdxwzvpqdghpynetwfhqskyxqnlm/RSS_Prefix.pch.gch
+xRSS_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@25"Precompile RSS_Prefix.pch286343839#286343841#0(0"0(0#0#70"/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/RSS_Prefix.pch2562656368#1863"    cd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/RSS-generated-files.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/RSS-own-target-headers.hmap" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/RSS-all-target-headers.hmap" -iquote "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/RSS-project-headers.hmap" "-F/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/include" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/DerivedSources/i386" "-I/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/RSS.build/Debug-iphonesimulator/RSS.build/DerivedSources" -c "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/RSS_Prefix.pch" -o /var/folders/eK/eKy+cY9lGOuUMW2sAs24FU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RSS_Prefix-fdxwzvpqdghpynetwfhqskyxqnlm/RSS_Prefix.pch.gch0#
+
+CTouch "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app"
+r0
+
+CTouch "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app"
+s286343843.346883
+e286343843.388861
+r1
+xTouch
+x/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app
+lSLF07#2@97"Touch /Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app286343843#286343843#0(0"0(0#0#0"2562656368#312"    cd "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/matt/Desktop/apps/iphone apps/25 apps in aug/RSS/build/Debug-iphonesimulator/RSS.app"0#
+

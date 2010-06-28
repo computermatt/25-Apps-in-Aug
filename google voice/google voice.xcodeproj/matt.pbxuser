@@ -1,0 +1,187 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* google_voiceAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 322}}";
+			sepNavSelRange = "{142, 0}";
+			sepNavVisRange = "{0, 490}";
+		};
+	};
+	1D3623250D0F684500981E51 /* google_voiceAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 420}}";
+			sepNavSelRange = "{142, 0}";
+			sepNavVisRange = "{0, 389}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* google voice */ = {
+		activeExec = 0;
+		executables = (
+			C9D3A940102FBA7C00BA87C6 /* google voice */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* google_voiceViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 237}}";
+			sepNavSelRange = "{145, 0}";
+			sepNavVisRange = "{0, 316}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* google_voiceViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 949}}";
+			sepNavSelRange = "{962, 63}";
+			sepNavVisRange = "{689, 439}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C9D3A940102FBA7C00BA87C6 /* google voice */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* google voice */;
+		codeSenseManager = C9D3A950102FBA9B00BA87C6 /* Code sense */;
+		executables = (
+			C9D3A940102FBA7C00BA87C6 /* google voice */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 278372844;
+			PBXWorkspaceStateSaveDate = 278372844;
+		};
+		perUserProjectItems = {
+			C91BB49210309429003BF2DC /* PBXTextBookmark */ = C91BB49210309429003BF2DC /* PBXTextBookmark */;
+			C96AFB61106DB4450090BDC8 /* PBXTextBookmark */ = C96AFB61106DB4450090BDC8 /* PBXTextBookmark */;
+			C97B9B061097A203005BE1E9 /* PBXTextBookmark */ = C97B9B061097A203005BE1E9 /* PBXTextBookmark */;
+			C97B9B071097A203005BE1E9 /* PBXTextBookmark */ = C97B9B071097A203005BE1E9 /* PBXTextBookmark */;
+			C98BD9DC1030F1EB0046AE1C /* PlistBookmark */ = C98BD9DC1030F1EB0046AE1C /* PlistBookmark */;
+			C98BD9DD1030F1EB0046AE1C /* PBXTextBookmark */ = C98BD9DD1030F1EB0046AE1C /* PBXTextBookmark */;
+		};
+		sourceControlManager = C9D3A94F102FBA9B00BA87C6 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	C91BB49210309429003BF2DC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* google_voiceAppDelegate.h */;
+		name = "google_voiceAppDelegate.h: 7";
+		rLen = 0;
+		rLoc = 142;
+		rType = 0;
+		vrLen = 490;
+		vrLoc = 0;
+	};
+	C96AFB61106DB4450090BDC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* google_voiceViewController.m */;
+		name = "google_voiceViewController.m: 40";
+		rLen = 0;
+		rLoc = 961;
+		rType = 0;
+		vrLen = 441;
+		vrLoc = 690;
+	};
+	C97B9B061097A203005BE1E9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* google_voiceViewController.h */;
+		name = "google_voiceViewController.h: 7";
+		rLen = 0;
+		rLoc = 145;
+		rType = 0;
+		vrLen = 316;
+		vrLoc = 0;
+	};
+	C97B9B071097A203005BE1E9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* google_voiceViewController.m */;
+		name = "google_voiceViewController.m: 41";
+		rLen = 63;
+		rLoc = 962;
+		rType = 0;
+		vrLen = 439;
+		vrLoc = 689;
+	};
+	C98BD9DC1030F1EB0046AE1C /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* google_voice-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = "/Users/matt/Desktop/iphone apps/25 apps in aug/google voice/google_voice-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	C98BD9DD1030F1EB0046AE1C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* google_voiceAppDelegate.m */;
+		name = "google_voiceAppDelegate.m: 7";
+		rLen = 0;
+		rLoc = 142;
+		rType = 0;
+		vrLen = 389;
+		vrLoc = 0;
+	};
+	C9D3A940102FBA7C00BA87C6 /* google voice */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "google voice";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	C9D3A94F102FBA9B00BA87C6 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C9D3A950102FBA9B00BA87C6 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

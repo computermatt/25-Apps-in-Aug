@@ -1,0 +1,292 @@
+Ttic-tac-toe
+v7
+r0
+t298245556.101170
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app/Info.plist" tic_tac_toe-Info.plist
+cCompileXIB "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/MainWindow.xib"
+cCompileXIB "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/tic_tac_toeViewController.xib"
+cCpResource build/Debug-iphonesimulator/tic-tac-toe.app/board.png board.png
+cCpResource build/Debug-iphonesimulator/tic-tac-toe.app/O.png O.png
+cCpResource build/Debug-iphonesimulator/tic-tac-toe.app/X.png X.png
+cCpResource build/Debug-iphonesimulator/tic-tac-toe.app/icon.png icon.png
+cProcessPCH /var/folders/Ws/WsDt9bu1F1yDqqxhEVoHxk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tic_tac_toe_Prefix-bdbidvohncipxibgpkuhmovltlck/tic_tac_toe_Prefix.pch.gch tic_tac_toe_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/Objects-normal/i386/main.o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/Objects-normal/i386/tic_tac_toeAppDelegate.o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/Classes/tic_tac_toeAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/Objects-normal/i386/tic_tac_toeViewController.o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/Classes/tic_tac_toeViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app/tic-tac-toe" normal i386
+cGenerateDSYMFile "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app.dSYM" "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app/tic-tac-toe"
+cTouch "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BD236930000000000000110
+t1272067731
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/Classes/tic_tac_toeAppDelegate.h
+c000000004A789A1B00000000000002AB
+t1249417755
+s683
+i<UIKit/UIKit.h>
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/Classes/tic_tac_toeAppDelegate.m
+c000000004A787B1600000000000002F5
+t1249409814
+s757
+i"tic_tac_toeAppDelegate.h"
+i"tic_tac_toeViewController.h"
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/Classes/tic_tac_toeViewController.h
+c000000004A787B0B000000000000070B
+t1249409803
+s1803
+i<UIKit/UIKit.h>
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/Classes/tic_tac_toeViewController.m
+c000000004A787B050000000000001444
+t1249409797
+s5188
+i"tic_tac_toeViewController.h"
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/MainWindow.xib
+c000000004A7877240000000000002441
+t1249408804
+s9281
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/O.png
+c0000000049B457CD00000000000012C0
+t1236555725
+s4800
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/X.png
+c0000000049B458130000000000000E4F
+t1236555795
+s3663
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/board.png
+c0000000049B45F250000000000000D86
+t1236557605
+s3462
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app
+t1276552756
+s374
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app.dSYM
+t1276552756
+s102
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app/Info.plist
+t1249409858
+s586
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app/MainWindow.nib
+t1249409858
+s1503
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app/O.png
+t1249409859
+s4800
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app/PkgInfo
+t1249409858
+s8
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app/X.png
+t1249409859
+s3663
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app/board.png
+t1249409859
+s3462
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app/icon.png
+t1249409859
+s3598
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app/tic-tac-toe
+t1276552756
+s36908
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app/tic_tac_toeViewController.nib
+t1249409859
+s4508
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/Objects-normal/i386/main.o
+t1276552755
+s6352
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/Objects-normal/i386/tic-tac-toe.LinkFileList
+c000000004C16A63100000000000001F8
+t1276552753
+s504
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/Objects-normal/i386/tic_tac_toeAppDelegate.o
+t1276552755
+s46468
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/Objects-normal/i386/tic_tac_toeViewController.o
+t1276552755
+s77196
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/icon.png
+c000000004A787A190000000000000E0E
+t1249409561
+s3598
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/main.m
+c000000004A7877240000000000000164
+t1249408804
+s356
+i<UIKit/UIKit.h>
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/tic_tac_toeViewController.xib
+c000000004A78795E00000000000058EF
+t1249409374
+s22767
+
+N/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/tic_tac_toe_Prefix.pch
+c000000004A78772400000000000000BF
+t1249408804
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/Ws/WsDt9bu1F1yDqqxhEVoHxk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tic_tac_toe_Prefix-bdbidvohncipxibgpkuhmovltlck/tic_tac_toe_Prefix.pch.gch
+t1276552755
+s13825936
+
+Ntic_tac_toe-Info.plist
+c000000004A787A350000000000000395
+t1249409589
+s917
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies298245553#298245553#0(0"0(0#1#0"32651522506817640#0"0#
+
+CCompileC build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/Objects-normal/i386/main.o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298245555.367603
+e298245555.478976
+r1
+xCompileC
+xbuild/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/Objects-normal/i386/main.o
+x/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/main.m298245555#298245555#0(0"0(0#0#70"/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/main.m8605181696#2278"    cd "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/tic-tac-toe-generated-files.hmap" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/tic-tac-toe-own-target-headers.hmap" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/tic-tac-toe-all-target-headers.hmap" -iquote "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/tic-tac-toe-project-headers.hmap" "-F/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/include" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/DerivedSources/i386" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/DerivedSources" -include /var/folders/Ws/WsDt9bu1F1yDqqxhEVoHxk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tic_tac_toe_Prefix-bdbidvohncipxibgpkuhmovltlck/tic_tac_toe_Prefix.pch -c "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/main.m" -o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/Objects-normal/i386/tic_tac_toeAppDelegate.o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/Classes/tic_tac_toeAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298245555.368912
+e298245555.514298
+r1
+xCompileC
+xbuild/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/Objects-normal/i386/tic_tac_toeAppDelegate.o
+x/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/Classes/tic_tac_toeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/Classes/tic_tac_toeAppDelegate.m298245555#298245555#0(0"0(0#0#96"/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/Classes/tic_tac_toeAppDelegate.m8601320512#2322"    cd "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/tic-tac-toe-generated-files.hmap" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/tic-tac-toe-own-target-headers.hmap" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/tic-tac-toe-all-target-headers.hmap" -iquote "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/tic-tac-toe-project-headers.hmap" "-F/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/include" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/DerivedSources/i386" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/DerivedSources" -include /var/folders/Ws/WsDt9bu1F1yDqqxhEVoHxk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tic_tac_toe_Prefix-bdbidvohncipxibgpkuhmovltlck/tic_tac_toe_Prefix.pch -c "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/Classes/tic_tac_toeAppDelegate.m" -o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/Objects-normal/i386/tic_tac_toeAppDelegate.o"0#
+
+CCompileC build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/Objects-normal/i386/tic_tac_toeViewController.o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/Classes/tic_tac_toeViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298245555.479078
+e298245555.616350
+r1
+xCompileC
+xbuild/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/Objects-normal/i386/tic_tac_toeViewController.o
+x/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/Classes/tic_tac_toeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/Classes/tic_tac_toeViewController.m298245555#298245555#0(0"0(0#0#99"/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/Classes/tic_tac_toeViewController.m8606027296#2328"    cd "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/tic-tac-toe-generated-files.hmap" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/tic-tac-toe-own-target-headers.hmap" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/tic-tac-toe-all-target-headers.hmap" -iquote "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/tic-tac-toe-project-headers.hmap" "-F/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/include" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/DerivedSources/i386" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/DerivedSources" -include /var/folders/Ws/WsDt9bu1F1yDqqxhEVoHxk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tic_tac_toe_Prefix-bdbidvohncipxibgpkuhmovltlck/tic_tac_toe_Prefix.pch -c "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/Classes/tic_tac_toeViewController.m" -o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/Objects-normal/i386/tic_tac_toeViewController.o"0#
+
+CCompileXIB "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/tic_tac_toeViewController.xib"
+r0
+
+CCpResource build/Debug-iphonesimulator/tic-tac-toe.app/O.png O.png
+r0
+
+CCpResource build/Debug-iphonesimulator/tic-tac-toe.app/X.png X.png
+r0
+
+CCpResource build/Debug-iphonesimulator/tic-tac-toe.app/board.png board.png
+r0
+
+CCpResource build/Debug-iphonesimulator/tic-tac-toe.app/icon.png icon.png
+r0
+
+CGenerateDSYMFile "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app.dSYM" "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app/tic-tac-toe"
+s298245556.020290
+e298245556.078676
+r1
+xGenerateDSYMFile
+x/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app.dSYM
+x/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app/tic-tac-toe
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/tic-tac-toe.app.dSYM build/Debug-iphonesimulator/tic-tac-toe.app/tic-tac-toe298245556#298245556#0(0"0(0#0#119"/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app/tic-tac-toe8602790560#476"    cd "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app/tic-tac-toe" -o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app.dSYM"0#
+
+CLd "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app/tic-tac-toe" normal i386
+s298245555.616446
+e298245556.020194
+r1
+xLd
+x/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app/tic-tac-toe
+xnormal
+xi386
+lSLF07#2@124"Link /Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app/tic-tac-toe298245555#298245556#0(0"0(0#0#0"8601284864#1055"    cd "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator" "-F/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator" -filelist "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/Objects-normal/i386/tic-tac-toe.LinkFileList" -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app/tic-tac-toe"0#
+
+CProcessInfoPlistFile "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app/Info.plist" tic_tac_toe-Info.plist
+r0
+
+CProcessPCH /var/folders/Ws/WsDt9bu1F1yDqqxhEVoHxk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tic_tac_toe_Prefix-bdbidvohncipxibgpkuhmovltlck/tic_tac_toe_Prefix.pch.gch tic_tac_toe_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s298245553.634103
+e298245555.367346
+r1
+xProcessPCH
+x/var/folders/Ws/WsDt9bu1F1yDqqxhEVoHxk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tic_tac_toe_Prefix-bdbidvohncipxibgpkuhmovltlck/tic_tac_toe_Prefix.pch.gch
+xtic_tac_toe_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile tic_tac_toe_Prefix.pch298245553#298245555#0(0"0(0#0#86"/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/tic_tac_toe_Prefix.pch8031148915949854720#2139"    cd "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/tic-tac-toe-generated-files.hmap" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/tic-tac-toe-own-target-headers.hmap" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/tic-tac-toe-all-target-headers.hmap" -iquote "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/tic-tac-toe-project-headers.hmap" "-F/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/include" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/DerivedSources/i386" "-I/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/tic-tac-toe.build/Debug-iphonesimulator/tic-tac-toe.build/DerivedSources" -c "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/tic_tac_toe_Prefix.pch" -o /var/folders/Ws/WsDt9bu1F1yDqqxhEVoHxk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tic_tac_toe_Prefix-bdbidvohncipxibgpkuhmovltlck/tic_tac_toe_Prefix.pch.gch0#
+
+CTouch "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app"
+s298245556.078780
+e298245556.101105
+r1
+xTouch
+x/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app
+lSLF07#2@113"Touch /Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app298245556#298245556#0(0"0(0#0#0"8598310560#336"    cd "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/Matt/Desktop/apps/iphone apps/25 apps in aug/tic-tac-toe/build/Debug-iphonesimulator/tic-tac-toe.app"0#
+
